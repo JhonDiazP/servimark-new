@@ -1,0 +1,628 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+      "title": "API",
+      "version": "1.0.0"
+    },
+    "servers": [
+      {
+        "url": "http://localhost:8888"
+      }
+    ],
+    "security": [
+      {
+        "bearerAuth": []
+      }
+    ],
+    "components": {
+      "securitySchemes": {
+        "bearerAuth": {
+          "type": "http",
+          "scheme": "bearer",
+          "bearerFormat": "JWT"
+        }
+      }
+    },
+    "paths": {
+      "/api/login": {
+        "post": {
+          "tags": [
+            "Autentificación > Auth"
+          ],
+          "summary": "api/login",
+          "parameters": [
+            {
+              "name": "Accept",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "Content-Type",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "email",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "example@example.com"
+            },
+            {
+              "name": "password",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "12345678"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/logout": {
+        "post": {
+          "tags": [
+            "Autentificación > Auth"
+          ],
+          "summary": "api/logout",
+          "requestBody": {
+            "content": {}
+          },
+          "parameters": [
+            {
+              "name": "Accept",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "Content-Type",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/register": {
+        "post": {
+          "tags": [
+            "Registro"
+          ],
+          "summary": "api/user",
+          "requestBody": {
+            "content": {}
+          },
+          "parameters": [
+            {
+              "name": "Accept",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "Content-Type",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "type_document_id",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 1
+            },
+            {
+              "name": "document",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "1000422342"
+            },
+            {
+              "name": "first_name",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "PrimerNombre"
+            },
+            {
+              "name": "middle_first_name",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "SegundoNombre"
+            },
+            {
+              "name": "last_name",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "PrimerApellido"
+            },
+            {
+              "name": "middle_last_name",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "SegundoApellido"
+            },
+            {
+              "name": "address",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "Calle 2a"
+            },
+            {
+              "name": "phone",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "3218893412"
+            },
+            {
+              "name": "phone_home",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "4872394"
+            },
+            {
+              "name": "municipality_id",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 5001
+            },
+            {
+              "name": "username",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "NombreUsuario"
+            },
+            {
+              "name": "email",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "example@example.com"
+            },
+            {
+              "name": "password",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "12345678"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/region": {
+        "get": {
+          "tags": [
+            "Territorios"
+          ],
+          "summary": "/api/region",
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/municipality": {
+        "get": {
+          "tags": [
+            "Territorios"
+          ],
+          "summary": "/api/region",
+          "parameters": [
+            {
+              "name": "region_id",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "required": false,
+              "example": 1
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/document": {
+        "get": {
+          "tags": [
+            "Tipo de Documento"
+          ],
+          "summary": "/api/documents",
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/category": {
+        "get": {
+          "tags": [
+            "Categoria"
+          ],
+          "summary": "/api/category",
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        },
+        "post": {
+          "tags": [
+            "Categoria"
+          ],
+          "summary": "api/category",
+          "requestBody": {
+            "content": {}
+          },
+          "parameters": [
+            {
+              "name": "Accept",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "Content-Type",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "name",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "categoria1"
+            },
+            {
+              "name": "slug",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "ct1"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/order": {
+        "get": {
+          "security": [
+            {
+              "bearerAuth": []
+            }
+          ],
+          "tags": [
+            "Facturación"
+          ],
+          "summary": "/api/order",
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        },
+        "post": {
+          "tags": [
+            "Facturación"
+          ],
+          "summary": "api/order",
+          "requestBody": {
+            "content": {}
+          },
+          "parameters": [
+            {
+              "name": "Accept",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "Content-Type",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "user_id",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 1
+            },
+            {
+              "name": "total_amount",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 50
+            },
+            {
+              "name": "order_date",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "2023-11-11"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/order_service": {
+        "get": {
+          "tags": [
+            "Facturación"
+          ],
+          "summary": "/api/order_service",
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        },
+        "post": {
+          "tags": [
+            "Facturación"
+          ],
+          "summary": "api/order_service",
+          "requestBody": {
+            "content": {}
+          },
+          "parameters": [
+            {
+              "name": "Accept",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "Content-Type",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "order_id",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 1
+            },
+            {
+              "name": "service_id",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 1
+            },
+            {
+              "name": "quantity",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 50
+            },
+            {
+              "name": "price",
+              "in": "query",
+              "schema": {
+                "type": "boolean"
+              },
+              "example": 50
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      },
+      "/api/review": {
+        "get": {
+          "tags": [
+            "Calificación"
+          ],
+          "summary": "/api/review",
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        },
+        "post": {
+          "tags": [
+            "Calificación"
+          ],
+          "summary": "api/review",
+          "requestBody": {
+            "content": {}
+          },
+          "parameters": [
+            {
+              "name": "Accept",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "Content-Type",
+              "in": "header",
+              "schema": {
+                "type": "string"
+              },
+              "example": "application/json"
+            },
+            {
+              "name": "user_id",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 1
+            },
+            {
+              "name": "service_id",
+              "in": "query",
+              "schema": {
+                "type": "integer"
+              },
+              "example": 1
+            },
+            {
+              "name": "rating",
+              "in": "query",
+              "schema": {
+                "type": "boolean"
+              },
+              "example": 3.5
+            },
+            {
+              "name": "comment",
+              "in": "query",
+              "schema": {
+                "type": "string"
+              },
+              "example": "Comentario"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response",
+              "content": {
+                "application/json": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }

@@ -1,0 +1,6746 @@
+[
+  {
+    "id": 1,
+    "name": "Medellin",
+    "code": 5001,
+    "region_id": 5
+  },
+  {
+    "id": 2,
+    "name": "Abejorral",
+    "code": 5002,
+    "region_id": 5
+  },
+  {
+    "id": 3,
+    "name": "Abriaqui",
+    "code": 5004,
+    "region_id": 5
+  },
+  {
+    "id": 4,
+    "name": "Alejandria",
+    "code": 5021,
+    "region_id": 5
+  },
+  {
+    "id": 5,
+    "name": "Amaga",
+    "code": 5030,
+    "region_id": 5
+  },
+  {
+    "id": 6,
+    "name": "Amalfi",
+    "code": 5031,
+    "region_id": 5
+  },
+  {
+    "id": 7,
+    "name": "Andes",
+    "code": 5034,
+    "region_id": 5
+  },
+  {
+    "id": 8,
+    "name": "Angelopolis",
+    "code": 5036,
+    "region_id": 5
+  },
+  {
+    "id": 9,
+    "name": "Angostura",
+    "code": 5038,
+    "region_id": 5
+  },
+  {
+    "id": 10,
+    "name": "Anori",
+    "code": 5040,
+    "region_id": 5
+  },
+  {
+    "id": 11,
+    "name": "Santafe De Antioquia",
+    "code": 5042,
+    "region_id": 5
+  },
+  {
+    "id": 12,
+    "name": "Anza",
+    "code": 5044,
+    "region_id": 5
+  },
+  {
+    "id": 13,
+    "name": "Apartado",
+    "code": 5045,
+    "region_id": 5
+  },
+  {
+    "id": 14,
+    "name": "Arboletes",
+    "code": 5051,
+    "region_id": 5
+  },
+  {
+    "id": 15,
+    "name": "Argelia",
+    "code": 5055,
+    "region_id": 5
+  },
+  {
+    "id": 16,
+    "name": "Armenia",
+    "code": 5059,
+    "region_id": 5
+  },
+  {
+    "id": 17,
+    "name": "Barbosa",
+    "code": 5079,
+    "region_id": 5
+  },
+  {
+    "id": 18,
+    "name": "Belmira",
+    "code": 5086,
+    "region_id": 5
+  },
+  {
+    "id": 19,
+    "name": "Bello",
+    "code": 5088,
+    "region_id": 5
+  },
+  {
+    "id": 20,
+    "name": "Betania",
+    "code": 5091,
+    "region_id": 5
+  },
+  {
+    "id": 21,
+    "name": "Betulia",
+    "code": 5093,
+    "region_id": 5
+  },
+  {
+    "id": 22,
+    "name": "Ciudad Bolivar",
+    "code": 5101,
+    "region_id": 5
+  },
+  {
+    "id": 23,
+    "name": "Briceño",
+    "code": 5107,
+    "region_id": 5
+  },
+  {
+    "id": 24,
+    "name": "Buritica",
+    "code": 5113,
+    "region_id": 5
+  },
+  {
+    "id": 25,
+    "name": "Caceres",
+    "code": 5120,
+    "region_id": 5
+  },
+  {
+    "id": 26,
+    "name": "Caicedo",
+    "code": 5125,
+    "region_id": 5
+  },
+  {
+    "id": 27,
+    "name": "Caldas",
+    "code": 5129,
+    "region_id": 5
+  },
+  {
+    "id": 28,
+    "name": "Campamento",
+    "code": 5134,
+    "region_id": 5
+  },
+  {
+    "id": 29,
+    "name": "Cañasgordas",
+    "code": 5138,
+    "region_id": 5
+  },
+  {
+    "id": 30,
+    "name": "Caracoli",
+    "code": 5142,
+    "region_id": 5
+  },
+  {
+    "id": 31,
+    "name": "Caramanta",
+    "code": 5145,
+    "region_id": 5
+  },
+  {
+    "id": 32,
+    "name": "Carepa",
+    "code": 5147,
+    "region_id": 5
+  },
+  {
+    "id": 33,
+    "name": "El Carmen De Viboral",
+    "code": 5148,
+    "region_id": 5
+  },
+  {
+    "id": 34,
+    "name": "Carolina",
+    "code": 5150,
+    "region_id": 5
+  },
+  {
+    "id": 35,
+    "name": "Caucasia",
+    "code": 5154,
+    "region_id": 5
+  },
+  {
+    "id": 36,
+    "name": "Chigorodo",
+    "code": 5172,
+    "region_id": 5
+  },
+  {
+    "id": 37,
+    "name": "Cisneros",
+    "code": 5190,
+    "region_id": 5
+  },
+  {
+    "id": 38,
+    "name": "Cocorna",
+    "code": 5197,
+    "region_id": 5
+  },
+  {
+    "id": 39,
+    "name": "Concepcion",
+    "code": 5206,
+    "region_id": 5
+  },
+  {
+    "id": 40,
+    "name": "Concordia",
+    "code": 5209,
+    "region_id": 5
+  },
+  {
+    "id": 41,
+    "name": "Copacabana",
+    "code": 5212,
+    "region_id": 5
+  },
+  {
+    "id": 42,
+    "name": "Dabeiba",
+    "code": 5234,
+    "region_id": 5
+  },
+  {
+    "id": 43,
+    "name": "Don Matias",
+    "code": 5237,
+    "region_id": 5
+  },
+  {
+    "id": 44,
+    "name": "Ebejico",
+    "code": 5240,
+    "region_id": 5
+  },
+  {
+    "id": 45,
+    "name": "El Bagre",
+    "code": 5250,
+    "region_id": 5
+  },
+  {
+    "id": 46,
+    "name": "Entrerrios",
+    "code": 5264,
+    "region_id": 5
+  },
+  {
+    "id": 47,
+    "name": "Envigado",
+    "code": 5266,
+    "region_id": 5
+  },
+  {
+    "id": 48,
+    "name": "Fredonia",
+    "code": 5282,
+    "region_id": 5
+  },
+  {
+    "id": 49,
+    "name": "Frontino",
+    "code": 5284,
+    "region_id": 5
+  },
+  {
+    "id": 50,
+    "name": "Giraldo",
+    "code": 5306,
+    "region_id": 5
+  },
+  {
+    "id": 51,
+    "name": "Girardota",
+    "code": 5308,
+    "region_id": 5
+  },
+  {
+    "id": 52,
+    "name": "Gomez Plata",
+    "code": 5310,
+    "region_id": 5
+  },
+  {
+    "id": 53,
+    "name": "Granada",
+    "code": 5313,
+    "region_id": 5
+  },
+  {
+    "id": 54,
+    "name": "Guadalupe",
+    "code": 5315,
+    "region_id": 5
+  },
+  {
+    "id": 55,
+    "name": "Guarne",
+    "code": 5318,
+    "region_id": 5
+  },
+  {
+    "id": 56,
+    "name": "Guatape",
+    "code": 5321,
+    "region_id": 5
+  },
+  {
+    "id": 57,
+    "name": "Heliconia",
+    "code": 5347,
+    "region_id": 5
+  },
+  {
+    "id": 58,
+    "name": "Hispania",
+    "code": 5353,
+    "region_id": 5
+  },
+  {
+    "id": 59,
+    "name": "Itagüi",
+    "code": 5360,
+    "region_id": 5
+  },
+  {
+    "id": 60,
+    "name": "Ituango",
+    "code": 5361,
+    "region_id": 5
+  },
+  {
+    "id": 61,
+    "name": "Jardin",
+    "code": 5364,
+    "region_id": 5
+  },
+  {
+    "id": 62,
+    "name": "Jerico",
+    "code": 5368,
+    "region_id": 5
+  },
+  {
+    "id": 63,
+    "name": "La Ceja",
+    "code": 5376,
+    "region_id": 5
+  },
+  {
+    "id": 64,
+    "name": "La Estrella",
+    "code": 5380,
+    "region_id": 5
+  },
+  {
+    "id": 65,
+    "name": "La Pintada",
+    "code": 5390,
+    "region_id": 5
+  },
+  {
+    "id": 66,
+    "name": "La Union",
+    "code": 5400,
+    "region_id": 5
+  },
+  {
+    "id": 67,
+    "name": "Liborina",
+    "code": 5411,
+    "region_id": 5
+  },
+  {
+    "id": 68,
+    "name": "Maceo",
+    "code": 5425,
+    "region_id": 5
+  },
+  {
+    "id": 69,
+    "name": "Marinilla",
+    "code": 5440,
+    "region_id": 5
+  },
+  {
+    "id": 70,
+    "name": "Montebello",
+    "code": 5467,
+    "region_id": 5
+  },
+  {
+    "id": 71,
+    "name": "Murindo",
+    "code": 5475,
+    "region_id": 5
+  },
+  {
+    "id": 72,
+    "name": "Mutata",
+    "code": 5480,
+    "region_id": 5
+  },
+  {
+    "id": 73,
+    "name": "Nariño",
+    "code": 5483,
+    "region_id": 5
+  },
+  {
+    "id": 74,
+    "name": "Necocli",
+    "code": 5490,
+    "region_id": 5
+  },
+  {
+    "id": 75,
+    "name": "Nechi",
+    "code": 5495,
+    "region_id": 5
+  },
+  {
+    "id": 76,
+    "name": "Olaya",
+    "code": 5501,
+    "region_id": 5
+  },
+  {
+    "id": 77,
+    "name": "Peñol",
+    "code": 5541,
+    "region_id": 5
+  },
+  {
+    "id": 78,
+    "name": "Peque",
+    "code": 5543,
+    "region_id": 5
+  },
+  {
+    "id": 79,
+    "name": "Pueblorrico",
+    "code": 5576,
+    "region_id": 5
+  },
+  {
+    "id": 80,
+    "name": "Puerto Berrio",
+    "code": 5579,
+    "region_id": 5
+  },
+  {
+    "id": 81,
+    "name": "Puerto Nare",
+    "code": 5585,
+    "region_id": 5
+  },
+  {
+    "id": 82,
+    "name": "Puerto Triunfo",
+    "code": 5591,
+    "region_id": 5
+  },
+  {
+    "id": 83,
+    "name": "Remedios",
+    "code": 5604,
+    "region_id": 5
+  },
+  {
+    "id": 84,
+    "name": "Retiro",
+    "code": 5607,
+    "region_id": 5
+  },
+  {
+    "id": 85,
+    "name": "Rionegro",
+    "code": 5615,
+    "region_id": 5
+  },
+  {
+    "id": 86,
+    "name": "Sabanalarga",
+    "code": 5628,
+    "region_id": 5
+  },
+  {
+    "id": 87,
+    "name": "Sabaneta",
+    "code": 5631,
+    "region_id": 5
+  },
+  {
+    "id": 88,
+    "name": "Salgar",
+    "code": 5642,
+    "region_id": 5
+  },
+  {
+    "id": 89,
+    "name": "San Andres",
+    "code": 5647,
+    "region_id": 5
+  },
+  {
+    "id": 90,
+    "name": "San Carlos",
+    "code": 5649,
+    "region_id": 5
+  },
+  {
+    "id": 91,
+    "name": "San Francisco",
+    "code": 5652,
+    "region_id": 5
+  },
+  {
+    "id": 92,
+    "name": "San Jeronimo",
+    "code": 5656,
+    "region_id": 5
+  },
+  {
+    "id": 93,
+    "name": "San Jose De La Montaña",
+    "code": 5658,
+    "region_id": 5
+  },
+  {
+    "id": 94,
+    "name": "San Juan De Uraba",
+    "code": 5659,
+    "region_id": 5
+  },
+  {
+    "id": 95,
+    "name": "San Luis",
+    "code": 5660,
+    "region_id": 5
+  },
+  {
+    "id": 96,
+    "name": "San Pedro",
+    "code": 5664,
+    "region_id": 5
+  },
+  {
+    "id": 97,
+    "name": "San Pedro De Uraba",
+    "code": 5665,
+    "region_id": 5
+  },
+  {
+    "id": 98,
+    "name": "San Rafael",
+    "code": 5667,
+    "region_id": 5
+  },
+  {
+    "id": 99,
+    "name": "San Roque",
+    "code": 5670,
+    "region_id": 5
+  },
+  {
+    "id": 100,
+    "name": "San Vicente",
+    "code": 5674,
+    "region_id": 5
+  },
+  {
+    "id": 101,
+    "name": "Santa Barbara",
+    "code": 5679,
+    "region_id": 5
+  },
+  {
+    "id": 102,
+    "name": "Santa Rosa De Osos",
+    "code": 5686,
+    "region_id": 5
+  },
+  {
+    "id": 103,
+    "name": "Santo Domingo",
+    "code": 5690,
+    "region_id": 5
+  },
+  {
+    "id": 104,
+    "name": "El Santuario",
+    "code": 5697,
+    "region_id": 5
+  },
+  {
+    "id": 105,
+    "name": "Segovia",
+    "code": 5736,
+    "region_id": 5
+  },
+  {
+    "id": 106,
+    "name": "Sonson",
+    "code": 5756,
+    "region_id": 5
+  },
+  {
+    "id": 107,
+    "name": "Sopetran",
+    "code": 5761,
+    "region_id": 5
+  },
+  {
+    "id": 108,
+    "name": "Tamesis",
+    "code": 5789,
+    "region_id": 5
+  },
+  {
+    "id": 109,
+    "name": "Taraza",
+    "code": 5790,
+    "region_id": 5
+  },
+  {
+    "id": 110,
+    "name": "Tarso",
+    "code": 5792,
+    "region_id": 5
+  },
+  {
+    "id": 111,
+    "name": "Titiribi",
+    "code": 5809,
+    "region_id": 5
+  },
+  {
+    "id": 112,
+    "name": "Toledo",
+    "code": 5819,
+    "region_id": 5
+  },
+  {
+    "id": 113,
+    "name": "Turbo",
+    "code": 5837,
+    "region_id": 5
+  },
+  {
+    "id": 114,
+    "name": "Uramita",
+    "code": 5842,
+    "region_id": 5
+  },
+  {
+    "id": 115,
+    "name": "Urrao",
+    "code": 5847,
+    "region_id": 5
+  },
+  {
+    "id": 116,
+    "name": "Valdivia",
+    "code": 5854,
+    "region_id": 5
+  },
+  {
+    "id": 117,
+    "name": "Valparaiso",
+    "code": 5856,
+    "region_id": 5
+  },
+  {
+    "id": 118,
+    "name": "Vegachi",
+    "code": 5858,
+    "region_id": 5
+  },
+  {
+    "id": 119,
+    "name": "Venecia",
+    "code": 5861,
+    "region_id": 5
+  },
+  {
+    "id": 120,
+    "name": "Vigia Del Fuerte",
+    "code": 5873,
+    "region_id": 5
+  },
+  {
+    "id": 121,
+    "name": "Yali",
+    "code": 5885,
+    "region_id": 5
+  },
+  {
+    "id": 122,
+    "name": "Yarumal",
+    "code": 5887,
+    "region_id": 5
+  },
+  {
+    "id": 123,
+    "name": "Yolombo",
+    "code": 5890,
+    "region_id": 5
+  },
+  {
+    "id": 124,
+    "name": "Yondo",
+    "code": 5893,
+    "region_id": 5
+  },
+  {
+    "id": 125,
+    "name": "Zaragoza",
+    "code": 5895,
+    "region_id": 5
+  },
+  {
+    "id": 126,
+    "name": "Barranquilla",
+    "code": 8001,
+    "region_id": 8
+  },
+  {
+    "id": 127,
+    "name": "Baranoa",
+    "code": 8078,
+    "region_id": 8
+  },
+  {
+    "id": 128,
+    "name": "Campo De La Cruz",
+    "code": 8137,
+    "region_id": 8
+  },
+  {
+    "id": 129,
+    "name": "Candelaria",
+    "code": 8141,
+    "region_id": 8
+  },
+  {
+    "id": 130,
+    "name": "Galapa",
+    "code": 8296,
+    "region_id": 8
+  },
+  {
+    "id": 131,
+    "name": "Juan De Acosta",
+    "code": 8372,
+    "region_id": 8
+  },
+  {
+    "id": 132,
+    "name": "Luruaco",
+    "code": 8421,
+    "region_id": 8
+  },
+  {
+    "id": 133,
+    "name": "Malambo",
+    "code": 8433,
+    "region_id": 8
+  },
+  {
+    "id": 134,
+    "name": "Manatí",
+    "code": 8436,
+    "region_id": 8
+  },
+  {
+    "id": 135,
+    "name": "Palmar De Varela",
+    "code": 8520,
+    "region_id": 8
+  },
+  {
+    "id": 136,
+    "name": "Piojó",
+    "code": 8549,
+    "region_id": 8
+  },
+  {
+    "id": 137,
+    "name": "Polonuevo",
+    "code": 8558,
+    "region_id": 8
+  },
+  {
+    "id": 138,
+    "name": "Ponedera",
+    "code": 8560,
+    "region_id": 8
+  },
+  {
+    "id": 139,
+    "name": "Puerto Colombia",
+    "code": 8573,
+    "region_id": 8
+  },
+  {
+    "id": 140,
+    "name": "Repelón",
+    "code": 8606,
+    "region_id": 8
+  },
+  {
+    "id": 141,
+    "name": "Sabanagrande",
+    "code": 8634,
+    "region_id": 8
+  },
+  {
+    "id": 142,
+    "name": "Sabanalarga",
+    "code": 8638,
+    "region_id": 8
+  },
+  {
+    "id": 143,
+    "name": "Santa Lucía",
+    "code": 8675,
+    "region_id": 8
+  },
+  {
+    "id": 144,
+    "name": "Santo Tomas",
+    "code": 8685,
+    "region_id": 8
+  },
+  {
+    "id": 145,
+    "name": "Soledad",
+    "code": 8758,
+    "region_id": 8
+  },
+  {
+    "id": 146,
+    "name": "Suan",
+    "code": 8770,
+    "region_id": 8
+  },
+  {
+    "id": 147,
+    "name": "Tubará",
+    "code": 8832,
+    "region_id": 8
+  },
+  {
+    "id": 148,
+    "name": "Usiacurí",
+    "code": 8849,
+    "region_id": 8
+  },
+  {
+    "id": 149,
+    "name": "Bogotá D.C.",
+    "code": 11001,
+    "region_id": 11
+  },
+  {
+    "id": 150,
+    "name": "Cartagena",
+    "code": 13001,
+    "region_id": 13
+  },
+  {
+    "id": 151,
+    "name": "Achí",
+    "code": 13006,
+    "region_id": 13
+  },
+  {
+    "id": 152,
+    "name": "Altos Del Rosario",
+    "code": 13030,
+    "region_id": 13
+  },
+  {
+    "id": 153,
+    "name": "Arenal",
+    "code": 13042,
+    "region_id": 13
+  },
+  {
+    "id": 154,
+    "name": "Arjona",
+    "code": 13052,
+    "region_id": 13
+  },
+  {
+    "id": 155,
+    "name": "Arroyohondo",
+    "code": 13062,
+    "region_id": 13
+  },
+  {
+    "id": 156,
+    "name": "Barranco De Loba",
+    "code": 13074,
+    "region_id": 13
+  },
+  {
+    "id": 157,
+    "name": "Calamar",
+    "code": 13140,
+    "region_id": 13
+  },
+  {
+    "id": 158,
+    "name": "Cantagallo",
+    "code": 13160,
+    "region_id": 13
+  },
+  {
+    "id": 159,
+    "name": "Cicuco",
+    "code": 13188,
+    "region_id": 13
+  },
+  {
+    "id": 160,
+    "name": "Córdoba",
+    "code": 13212,
+    "region_id": 13
+  },
+  {
+    "id": 161,
+    "name": "Clemencia",
+    "code": 13222,
+    "region_id": 13
+  },
+  {
+    "id": 162,
+    "name": "El Carmen De Bolívar",
+    "code": 13244,
+    "region_id": 13
+  },
+  {
+    "id": 163,
+    "name": "El Guamo",
+    "code": 13248,
+    "region_id": 13
+  },
+  {
+    "id": 164,
+    "name": "El Peñón",
+    "code": 13268,
+    "region_id": 13
+  },
+  {
+    "id": 165,
+    "name": "Hatillo De Loba",
+    "code": 13300,
+    "region_id": 13
+  },
+  {
+    "id": 166,
+    "name": "Magangué",
+    "code": 13430,
+    "region_id": 13
+  },
+  {
+    "id": 167,
+    "name": "Mahates",
+    "code": 13433,
+    "region_id": 13
+  },
+  {
+    "id": 168,
+    "name": "Margarita",
+    "code": 13440,
+    "region_id": 13
+  },
+  {
+    "id": 169,
+    "name": "María La Baja",
+    "code": 13442,
+    "region_id": 13
+  },
+  {
+    "id": 170,
+    "name": "Montecristo",
+    "code": 13458,
+    "region_id": 13
+  },
+  {
+    "id": 171,
+    "name": "Mompós",
+    "code": 13468,
+    "region_id": 13
+  },
+  {
+    "id": 172,
+    "name": "Morales",
+    "code": 13473,
+    "region_id": 13
+  },
+  {
+    "id": 173,
+    "name": "Norosi",
+    "code": 13490,
+    "region_id": 13
+  },
+  {
+    "id": 174,
+    "name": "Pinillos",
+    "code": 13549,
+    "region_id": 13
+  },
+  {
+    "id": 175,
+    "name": "Regidor",
+    "code": 13580,
+    "region_id": 13
+  },
+  {
+    "id": 176,
+    "name": "Río Viejo",
+    "code": 13600,
+    "region_id": 13
+  },
+  {
+    "id": 177,
+    "name": "San Cristobal",
+    "code": 13620,
+    "region_id": 13
+  },
+  {
+    "id": 178,
+    "name": "San Estanislao",
+    "code": 13647,
+    "region_id": 13
+  },
+  {
+    "id": 179,
+    "name": "San Fernando",
+    "code": 13650,
+    "region_id": 13
+  },
+  {
+    "id": 180,
+    "name": "San Jacinto",
+    "code": 13654,
+    "region_id": 13
+  },
+  {
+    "id": 181,
+    "name": "San Jacinto Del Cauca",
+    "code": 13655,
+    "region_id": 13
+  },
+  {
+    "id": 182,
+    "name": "San Juan Nepomuceno",
+    "code": 13657,
+    "region_id": 13
+  },
+  {
+    "id": 183,
+    "name": "San Martín De Loba",
+    "code": 13667,
+    "region_id": 13
+  },
+  {
+    "id": 184,
+    "name": "San Pablo",
+    "code": 13670,
+    "region_id": 13
+  },
+  {
+    "id": 185,
+    "name": "Santa Catalina",
+    "code": 13673,
+    "region_id": 13
+  },
+  {
+    "id": 186,
+    "name": "Santa Rosa",
+    "code": 13683,
+    "region_id": 13
+  },
+  {
+    "id": 187,
+    "name": "Santa Rosa Del Sur",
+    "code": 13688,
+    "region_id": 13
+  },
+  {
+    "id": 188,
+    "name": "Simití",
+    "code": 13744,
+    "region_id": 13
+  },
+  {
+    "id": 189,
+    "name": "Soplaviento",
+    "code": 13760,
+    "region_id": 13
+  },
+  {
+    "id": 190,
+    "name": "Talaigua Nuevo",
+    "code": 13780,
+    "region_id": 13
+  },
+  {
+    "id": 191,
+    "name": "Tiquisio",
+    "code": 13810,
+    "region_id": 13
+  },
+  {
+    "id": 192,
+    "name": "Turbaco",
+    "code": 13836,
+    "region_id": 13
+  },
+  {
+    "id": 193,
+    "name": "Turbaná",
+    "code": 13838,
+    "region_id": 13
+  },
+  {
+    "id": 194,
+    "name": "Villanueva",
+    "code": 13873,
+    "region_id": 13
+  },
+  {
+    "id": 195,
+    "name": "Zambrano",
+    "code": 13894,
+    "region_id": 13
+  },
+  {
+    "id": 196,
+    "name": "Tunja",
+    "code": 15001,
+    "region_id": 15
+  },
+  {
+    "id": 197,
+    "name": "Almeida",
+    "code": 15022,
+    "region_id": 15
+  },
+  {
+    "id": 198,
+    "name": "Aquitania",
+    "code": 15047,
+    "region_id": 15
+  },
+  {
+    "id": 199,
+    "name": "Arcabuco",
+    "code": 15051,
+    "region_id": 15
+  },
+  {
+    "id": 200,
+    "name": "Belén",
+    "code": 15087,
+    "region_id": 15
+  },
+  {
+    "id": 201,
+    "name": "Berbeo",
+    "code": 15090,
+    "region_id": 15
+  },
+  {
+    "id": 202,
+    "name": "Betéitiva",
+    "code": 15092,
+    "region_id": 15
+  },
+  {
+    "id": 203,
+    "name": "Boavita",
+    "code": 15097,
+    "region_id": 15
+  },
+  {
+    "id": 204,
+    "name": "Boyacá",
+    "code": 15104,
+    "region_id": 15
+  },
+  {
+    "id": 205,
+    "name": "Briceño",
+    "code": 15106,
+    "region_id": 15
+  },
+  {
+    "id": 206,
+    "name": "Buenavista",
+    "code": 15109,
+    "region_id": 15
+  },
+  {
+    "id": 207,
+    "name": "Busbanzá",
+    "code": 15114,
+    "region_id": 15
+  },
+  {
+    "id": 208,
+    "name": "Caldas",
+    "code": 15131,
+    "region_id": 15
+  },
+  {
+    "id": 209,
+    "name": "Campohermoso",
+    "code": 15135,
+    "region_id": 15
+  },
+  {
+    "id": 210,
+    "name": "Cerinza",
+    "code": 15162,
+    "region_id": 15
+  },
+  {
+    "id": 211,
+    "name": "Chinavita",
+    "code": 15172,
+    "region_id": 15
+  },
+  {
+    "id": 212,
+    "name": "Chiquinquirá",
+    "code": 15176,
+    "region_id": 15
+  },
+  {
+    "id": 213,
+    "name": "Chiscas",
+    "code": 15180,
+    "region_id": 15
+  },
+  {
+    "id": 214,
+    "name": "Chita",
+    "code": 15183,
+    "region_id": 15
+  },
+  {
+    "id": 215,
+    "name": "Chitaraque",
+    "code": 15185,
+    "region_id": 15
+  },
+  {
+    "id": 216,
+    "name": "Chivatá",
+    "code": 15187,
+    "region_id": 15
+  },
+  {
+    "id": 217,
+    "name": "Cienega",
+    "code": 15189,
+    "region_id": 15
+  },
+  {
+    "id": 218,
+    "name": "Combita",
+    "code": 15204,
+    "region_id": 15
+  },
+  {
+    "id": 219,
+    "name": "Coper",
+    "code": 15212,
+    "region_id": 15
+  },
+  {
+    "id": 220,
+    "name": "Corrales",
+    "code": 15215,
+    "region_id": 15
+  },
+  {
+    "id": 221,
+    "name": "Covarachía",
+    "code": 15218,
+    "region_id": 15
+  },
+  {
+    "id": 222,
+    "name": "Cubará",
+    "code": 15223,
+    "region_id": 15
+  },
+  {
+    "id": 223,
+    "name": "Cucaita",
+    "code": 15224,
+    "region_id": 15
+  },
+  {
+    "id": 224,
+    "name": "Cuitiiva",
+    "code": 15226,
+    "region_id": 15
+  },
+  {
+    "id": 225,
+    "name": "Chiquiza",
+    "code": 15232,
+    "region_id": 15
+  },
+  {
+    "id": 226,
+    "name": "Chivor",
+    "code": 15236,
+    "region_id": 15
+  },
+  {
+    "id": 227,
+    "name": "Duitama",
+    "code": 15238,
+    "region_id": 15
+  },
+  {
+    "id": 228,
+    "name": "El Cocuy",
+    "code": 15244,
+    "region_id": 15
+  },
+  {
+    "id": 229,
+    "name": "El Espino",
+    "code": 15248,
+    "region_id": 15
+  },
+  {
+    "id": 230,
+    "name": "Firavitoba",
+    "code": 15272,
+    "region_id": 15
+  },
+  {
+    "id": 231,
+    "name": "Floresta",
+    "code": 15276,
+    "region_id": 15
+  },
+  {
+    "id": 232,
+    "name": "Gachantivá",
+    "code": 15293,
+    "region_id": 15
+  },
+  {
+    "id": 233,
+    "name": "Gameza",
+    "code": 15296,
+    "region_id": 15
+  },
+  {
+    "id": 234,
+    "name": "Garagoa",
+    "code": 15299,
+    "region_id": 15
+  },
+  {
+    "id": 235,
+    "name": "Guacamayas",
+    "code": 15317,
+    "region_id": 15
+  },
+  {
+    "id": 236,
+    "name": "Guateque",
+    "code": 15322,
+    "region_id": 15
+  },
+  {
+    "id": 237,
+    "name": "Guayatá",
+    "code": 15325,
+    "region_id": 15
+  },
+  {
+    "id": 238,
+    "name": "Güicán",
+    "code": 15332,
+    "region_id": 15
+  },
+  {
+    "id": 239,
+    "name": "Iza",
+    "code": 15362,
+    "region_id": 15
+  },
+  {
+    "id": 240,
+    "name": "Jenesano",
+    "code": 15367,
+    "region_id": 15
+  },
+  {
+    "id": 241,
+    "name": "Jericó",
+    "code": 15368,
+    "region_id": 15
+  },
+  {
+    "id": 242,
+    "name": "Labranzagrande",
+    "code": 15377,
+    "region_id": 15
+  },
+  {
+    "id": 243,
+    "name": "La Capilla",
+    "code": 15380,
+    "region_id": 15
+  },
+  {
+    "id": 244,
+    "name": "La Victoria",
+    "code": 15401,
+    "region_id": 15
+  },
+  {
+    "id": 245,
+    "name": "La Uvita",
+    "code": 15403,
+    "region_id": 15
+  },
+  {
+    "id": 246,
+    "name": "Villa De Leyva",
+    "code": 15407,
+    "region_id": 15
+  },
+  {
+    "id": 247,
+    "name": "Macanal",
+    "code": 15425,
+    "region_id": 15
+  },
+  {
+    "id": 248,
+    "name": "Maripí",
+    "code": 15442,
+    "region_id": 15
+  },
+  {
+    "id": 249,
+    "name": "Miraflores",
+    "code": 15455,
+    "region_id": 15
+  },
+  {
+    "id": 250,
+    "name": "Mongua",
+    "code": 15464,
+    "region_id": 15
+  },
+  {
+    "id": 251,
+    "name": "Monguí",
+    "code": 15466,
+    "region_id": 15
+  },
+  {
+    "id": 252,
+    "name": "Moniquirá",
+    "code": 15469,
+    "region_id": 15
+  },
+  {
+    "id": 253,
+    "name": "Motavita",
+    "code": 15476,
+    "region_id": 15
+  },
+  {
+    "id": 254,
+    "name": "Muzo",
+    "code": 15480,
+    "region_id": 15
+  },
+  {
+    "id": 255,
+    "name": "Nobsa",
+    "code": 15491,
+    "region_id": 15
+  },
+  {
+    "id": 256,
+    "name": "Nuevo Colón",
+    "code": 15494,
+    "region_id": 15
+  },
+  {
+    "id": 257,
+    "name": "Oicata",
+    "code": 15500,
+    "region_id": 15
+  },
+  {
+    "id": 258,
+    "name": "Otanche",
+    "code": 15507,
+    "region_id": 15
+  },
+  {
+    "id": 259,
+    "name": "Pachavita",
+    "code": 15511,
+    "region_id": 15
+  },
+  {
+    "id": 260,
+    "name": "Paez",
+    "code": 15514,
+    "region_id": 15
+  },
+  {
+    "id": 261,
+    "name": "Paipa",
+    "code": 15516,
+    "region_id": 15
+  },
+  {
+    "id": 262,
+    "name": "Pajarito",
+    "code": 15518,
+    "region_id": 15
+  },
+  {
+    "id": 263,
+    "name": "Panqueba",
+    "code": 15522,
+    "region_id": 15
+  },
+  {
+    "id": 264,
+    "name": "Pauna",
+    "code": 15531,
+    "region_id": 15
+  },
+  {
+    "id": 265,
+    "name": "Paya",
+    "code": 15533,
+    "region_id": 15
+  },
+  {
+    "id": 266,
+    "name": "Paz De Río",
+    "code": 15537,
+    "region_id": 15
+  },
+  {
+    "id": 267,
+    "name": "Pesca",
+    "code": 15542,
+    "region_id": 15
+  },
+  {
+    "id": 268,
+    "name": "Pisba",
+    "code": 15550,
+    "region_id": 15
+  },
+  {
+    "id": 269,
+    "name": "Puerto Boyacá",
+    "code": 15572,
+    "region_id": 15
+  },
+  {
+    "id": 270,
+    "name": "Quipama",
+    "code": 15580,
+    "region_id": 15
+  },
+  {
+    "id": 271,
+    "name": "Ramiriquí",
+    "code": 15599,
+    "region_id": 15
+  },
+  {
+    "id": 272,
+    "name": "Raquira",
+    "code": 15600,
+    "region_id": 15
+  },
+  {
+    "id": 273,
+    "name": "Rondón",
+    "code": 15621,
+    "region_id": 15
+  },
+  {
+    "id": 274,
+    "name": "Saboyá",
+    "code": 15632,
+    "region_id": 15
+  },
+  {
+    "id": 275,
+    "name": "Sachica",
+    "code": 15638,
+    "region_id": 15
+  },
+  {
+    "id": 276,
+    "name": "Samacá",
+    "code": 15646,
+    "region_id": 15
+  },
+  {
+    "id": 277,
+    "name": "San Eduardo",
+    "code": 15660,
+    "region_id": 15
+  },
+  {
+    "id": 278,
+    "name": "San José De Pare",
+    "code": 15664,
+    "region_id": 15
+  },
+  {
+    "id": 279,
+    "name": "San Luis De Gaceno",
+    "code": 15667,
+    "region_id": 15
+  },
+  {
+    "id": 280,
+    "name": "San Mateo",
+    "code": 15673,
+    "region_id": 15
+  },
+  {
+    "id": 281,
+    "name": "San Miguel De Sema",
+    "code": 15676,
+    "region_id": 15
+  },
+  {
+    "id": 282,
+    "name": "San Pablo Borbur",
+    "code": 15681,
+    "region_id": 15
+  },
+  {
+    "id": 283,
+    "name": "Santana",
+    "code": 15686,
+    "region_id": 15
+  },
+  {
+    "id": 284,
+    "name": "Santa María",
+    "code": 15690,
+    "region_id": 15
+  },
+  {
+    "id": 285,
+    "name": "Santa Rosa De Viterbo",
+    "code": 15693,
+    "region_id": 15
+  },
+  {
+    "id": 286,
+    "name": "Santa Sofía",
+    "code": 15696,
+    "region_id": 15
+  },
+  {
+    "id": 287,
+    "name": "Sativanorte",
+    "code": 15720,
+    "region_id": 15
+  },
+  {
+    "id": 288,
+    "name": "Sativasur",
+    "code": 15723,
+    "region_id": 15
+  },
+  {
+    "id": 289,
+    "name": "Siachoque",
+    "code": 15740,
+    "region_id": 15
+  },
+  {
+    "id": 290,
+    "name": "Soatá",
+    "code": 15753,
+    "region_id": 15
+  },
+  {
+    "id": 291,
+    "name": "Socotá",
+    "code": 15755,
+    "region_id": 15
+  },
+  {
+    "id": 292,
+    "name": "Socha",
+    "code": 15757,
+    "region_id": 15
+  },
+  {
+    "id": 293,
+    "name": "Sogamoso",
+    "code": 15759,
+    "region_id": 15
+  },
+  {
+    "id": 294,
+    "name": "Somondoco",
+    "code": 15761,
+    "region_id": 15
+  },
+  {
+    "id": 295,
+    "name": "Sora",
+    "code": 15762,
+    "region_id": 15
+  },
+  {
+    "id": 296,
+    "name": "Sotaquirá",
+    "code": 15763,
+    "region_id": 15
+  },
+  {
+    "id": 297,
+    "name": "Soracá",
+    "code": 15764,
+    "region_id": 15
+  },
+  {
+    "id": 298,
+    "name": "Susacón",
+    "code": 15774,
+    "region_id": 15
+  },
+  {
+    "id": 299,
+    "name": "Sutamarchán",
+    "code": 15776,
+    "region_id": 15
+  },
+  {
+    "id": 300,
+    "name": "Sutatenza",
+    "code": 15778,
+    "region_id": 15
+  },
+  {
+    "id": 301,
+    "name": "Tasco",
+    "code": 15790,
+    "region_id": 15
+  },
+  {
+    "id": 302,
+    "name": "Tenza",
+    "code": 15798,
+    "region_id": 15
+  },
+  {
+    "id": 303,
+    "name": "Tibaná",
+    "code": 15804,
+    "region_id": 15
+  },
+  {
+    "id": 304,
+    "name": "Tibasosa",
+    "code": 15806,
+    "region_id": 15
+  },
+  {
+    "id": 305,
+    "name": "Tinjacá",
+    "code": 15808,
+    "region_id": 15
+  },
+  {
+    "id": 306,
+    "name": "Tipacoque",
+    "code": 15810,
+    "region_id": 15
+  },
+  {
+    "id": 307,
+    "name": "Toca",
+    "code": 15814,
+    "region_id": 15
+  },
+  {
+    "id": 308,
+    "name": "Togüí",
+    "code": 15816,
+    "region_id": 15
+  },
+  {
+    "id": 309,
+    "name": "Topaga",
+    "code": 15820,
+    "region_id": 15
+  },
+  {
+    "id": 310,
+    "name": "Tota",
+    "code": 15822,
+    "region_id": 15
+  },
+  {
+    "id": 311,
+    "name": "Tununguá",
+    "code": 15832,
+    "region_id": 15
+  },
+  {
+    "id": 312,
+    "name": "Turmequé",
+    "code": 15835,
+    "region_id": 15
+  },
+  {
+    "id": 313,
+    "name": "Tuta",
+    "code": 15837,
+    "region_id": 15
+  },
+  {
+    "id": 314,
+    "name": "Tutasá",
+    "code": 15839,
+    "region_id": 15
+  },
+  {
+    "id": 315,
+    "name": "Umbita",
+    "code": 15842,
+    "region_id": 15
+  },
+  {
+    "id": 316,
+    "name": "Ventaquemada",
+    "code": 15861,
+    "region_id": 15
+  },
+  {
+    "id": 317,
+    "name": "Viracachá",
+    "code": 15879,
+    "region_id": 15
+  },
+  {
+    "id": 318,
+    "name": "Zetaquira",
+    "code": 15897,
+    "region_id": 15
+  },
+  {
+    "id": 319,
+    "name": "Manizales",
+    "code": 17001,
+    "region_id": 17
+  },
+  {
+    "id": 320,
+    "name": "Aguadas",
+    "code": 17013,
+    "region_id": 17
+  },
+  {
+    "id": 321,
+    "name": "Anserma",
+    "code": 17042,
+    "region_id": 17
+  },
+  {
+    "id": 322,
+    "name": "Aranzazu",
+    "code": 17050,
+    "region_id": 17
+  },
+  {
+    "id": 323,
+    "name": "Belalcázar",
+    "code": 17088,
+    "region_id": 17
+  },
+  {
+    "id": 324,
+    "name": "Chinchiná",
+    "code": 17174,
+    "region_id": 17
+  },
+  {
+    "id": 325,
+    "name": "Filadelfia",
+    "code": 17272,
+    "region_id": 17
+  },
+  {
+    "id": 326,
+    "name": "La Dorada",
+    "code": 17380,
+    "region_id": 17
+  },
+  {
+    "id": 327,
+    "name": "La Merced",
+    "code": 17388,
+    "region_id": 17
+  },
+  {
+    "id": 328,
+    "name": "Manzanares",
+    "code": 17433,
+    "region_id": 17
+  },
+  {
+    "id": 329,
+    "name": "Marmato",
+    "code": 17442,
+    "region_id": 17
+  },
+  {
+    "id": 330,
+    "name": "Marquetalia",
+    "code": 17444,
+    "region_id": 17
+  },
+  {
+    "id": 331,
+    "name": "Marulanda",
+    "code": 17446,
+    "region_id": 17
+  },
+  {
+    "id": 332,
+    "name": "Neira",
+    "code": 17486,
+    "region_id": 17
+  },
+  {
+    "id": 333,
+    "name": "Norcasia",
+    "code": 17495,
+    "region_id": 17
+  },
+  {
+    "id": 334,
+    "name": "Pácora",
+    "code": 17513,
+    "region_id": 17
+  },
+  {
+    "id": 335,
+    "name": "Palestina",
+    "code": 17524,
+    "region_id": 17
+  },
+  {
+    "id": 336,
+    "name": "Pensilvania",
+    "code": 17541,
+    "region_id": 17
+  },
+  {
+    "id": 337,
+    "name": "Riosucio",
+    "code": 17614,
+    "region_id": 17
+  },
+  {
+    "id": 338,
+    "name": "Risaralda",
+    "code": 17616,
+    "region_id": 17
+  },
+  {
+    "id": 339,
+    "name": "Salamina",
+    "code": 17653,
+    "region_id": 17
+  },
+  {
+    "id": 340,
+    "name": "Samaná",
+    "code": 17662,
+    "region_id": 17
+  },
+  {
+    "id": 341,
+    "name": "San José",
+    "code": 17665,
+    "region_id": 17
+  },
+  {
+    "id": 342,
+    "name": "Supía",
+    "code": 17777,
+    "region_id": 17
+  },
+  {
+    "id": 343,
+    "name": "Victoria",
+    "code": 17867,
+    "region_id": 17
+  },
+  {
+    "id": 344,
+    "name": "Villamaría",
+    "code": 17873,
+    "region_id": 17
+  },
+  {
+    "id": 345,
+    "name": "Viterbo",
+    "code": 17877,
+    "region_id": 17
+  },
+  {
+    "id": 346,
+    "name": "Florencia",
+    "code": 18001,
+    "region_id": 18
+  },
+  {
+    "id": 347,
+    "name": "Albania",
+    "code": 18029,
+    "region_id": 18
+  },
+  {
+    "id": 348,
+    "name": "Belén De Los Andaquíes",
+    "code": 18094,
+    "region_id": 18
+  },
+  {
+    "id": 349,
+    "name": "Cartagena Del Chairá",
+    "code": 18150,
+    "region_id": 18
+  },
+  {
+    "id": 350,
+    "name": "Currillo",
+    "code": 18205,
+    "region_id": 18
+  },
+  {
+    "id": 351,
+    "name": "El Doncello",
+    "code": 18247,
+    "region_id": 18
+  },
+  {
+    "id": 352,
+    "name": "El Paujil",
+    "code": 18256,
+    "region_id": 18
+  },
+  {
+    "id": 353,
+    "name": "La Montañita",
+    "code": 18410,
+    "region_id": 18
+  },
+  {
+    "id": 354,
+    "name": "Milán",
+    "code": 18460,
+    "region_id": 18
+  },
+  {
+    "id": 355,
+    "name": "Morelia",
+    "code": 18479,
+    "region_id": 18
+  },
+  {
+    "id": 356,
+    "name": "Puerto Rico",
+    "code": 18592,
+    "region_id": 18
+  },
+  {
+    "id": 357,
+    "name": "San José De La Fragua",
+    "code": 18610,
+    "region_id": 18
+  },
+  {
+    "id": 358,
+    "name": "San Vicente Del Caguán",
+    "code": 18753,
+    "region_id": 18
+  },
+  {
+    "id": 359,
+    "name": "Solano",
+    "code": 18756,
+    "region_id": 18
+  },
+  {
+    "id": 360,
+    "name": "Solita",
+    "code": 18785,
+    "region_id": 18
+  },
+  {
+    "id": 361,
+    "name": "Valparaíso",
+    "code": 18860,
+    "region_id": 18
+  },
+  {
+    "id": 362,
+    "name": "Popayán",
+    "code": 19001,
+    "region_id": 19
+  },
+  {
+    "id": 363,
+    "name": "Almaguer",
+    "code": 19022,
+    "region_id": 19
+  },
+  {
+    "id": 364,
+    "name": "Argelia",
+    "code": 19050,
+    "region_id": 19
+  },
+  {
+    "id": 365,
+    "name": "Balboa",
+    "code": 19075,
+    "region_id": 19
+  },
+  {
+    "id": 366,
+    "name": "Bolívar",
+    "code": 19100,
+    "region_id": 19
+  },
+  {
+    "id": 367,
+    "name": "Buenos Aires",
+    "code": 19110,
+    "region_id": 19
+  },
+  {
+    "id": 368,
+    "name": "Cajibío",
+    "code": 19130,
+    "region_id": 19
+  },
+  {
+    "id": 369,
+    "name": "Caldono",
+    "code": 19137,
+    "region_id": 19
+  },
+  {
+    "id": 370,
+    "name": "Caloto",
+    "code": 19142,
+    "region_id": 19
+  },
+  {
+    "id": 371,
+    "name": "Corinto",
+    "code": 19212,
+    "region_id": 19
+  },
+  {
+    "id": 372,
+    "name": "El Tambo",
+    "code": 19256,
+    "region_id": 19
+  },
+  {
+    "id": 373,
+    "name": "Florencia",
+    "code": 19290,
+    "region_id": 19
+  },
+  {
+    "id": 374,
+    "name": "Guachene",
+    "code": 19300,
+    "region_id": 19
+  },
+  {
+    "id": 375,
+    "name": "Guapi",
+    "code": 19318,
+    "region_id": 19
+  },
+  {
+    "id": 376,
+    "name": "Inzá",
+    "code": 19355,
+    "region_id": 19
+  },
+  {
+    "id": 377,
+    "name": "Jambaló",
+    "code": 19364,
+    "region_id": 19
+  },
+  {
+    "id": 378,
+    "name": "La Sierra",
+    "code": 19392,
+    "region_id": 19
+  },
+  {
+    "id": 379,
+    "name": "La Vega",
+    "code": 19397,
+    "region_id": 19
+  },
+  {
+    "id": 380,
+    "name": "López",
+    "code": 19418,
+    "region_id": 19
+  },
+  {
+    "id": 381,
+    "name": "Mercaderes",
+    "code": 19450,
+    "region_id": 19
+  },
+  {
+    "id": 382,
+    "name": "Miranda",
+    "code": 19455,
+    "region_id": 19
+  },
+  {
+    "id": 383,
+    "name": "Morales",
+    "code": 19473,
+    "region_id": 19
+  },
+  {
+    "id": 384,
+    "name": "Padilla",
+    "code": 19513,
+    "region_id": 19
+  },
+  {
+    "id": 385,
+    "name": "Páez",
+    "code": 19517,
+    "region_id": 19
+  },
+  {
+    "id": 386,
+    "name": "Patía",
+    "code": 19532,
+    "region_id": 19
+  },
+  {
+    "id": 387,
+    "name": "Piamonte",
+    "code": 19533,
+    "region_id": 19
+  },
+  {
+    "id": 388,
+    "name": "Piendamó",
+    "code": 19548,
+    "region_id": 19
+  },
+  {
+    "id": 389,
+    "name": "Puerto Tejada",
+    "code": 19573,
+    "region_id": 19
+  },
+  {
+    "id": 390,
+    "name": "Puracé",
+    "code": 19585,
+    "region_id": 19
+  },
+  {
+    "id": 391,
+    "name": "Rosas",
+    "code": 19622,
+    "region_id": 19
+  },
+  {
+    "id": 392,
+    "name": "San Sebastián",
+    "code": 19693,
+    "region_id": 19
+  },
+  {
+    "id": 393,
+    "name": "Santander De Quilichao",
+    "code": 19698,
+    "region_id": 19
+  },
+  {
+    "id": 394,
+    "name": "Santa Rosa",
+    "code": 19701,
+    "region_id": 19
+  },
+  {
+    "id": 395,
+    "name": "Silvia",
+    "code": 19743,
+    "region_id": 19
+  },
+  {
+    "id": 396,
+    "name": "Sotará",
+    "code": 19760,
+    "region_id": 19
+  },
+  {
+    "id": 397,
+    "name": "Suárez",
+    "code": 19780,
+    "region_id": 19
+  },
+  {
+    "id": 398,
+    "name": "Sucre",
+    "code": 19785,
+    "region_id": 19
+  },
+  {
+    "id": 399,
+    "name": "Timbío",
+    "code": 19807,
+    "region_id": 19
+  },
+  {
+    "id": 400,
+    "name": "Timbiquí",
+    "code": 19809,
+    "region_id": 19
+  },
+  {
+    "id": 401,
+    "name": "Toribío",
+    "code": 19821,
+    "region_id": 19
+  },
+  {
+    "id": 402,
+    "name": "Totoró",
+    "code": 19824,
+    "region_id": 19
+  },
+  {
+    "id": 403,
+    "name": "Villa Rica",
+    "code": 19845,
+    "region_id": 19
+  },
+  {
+    "id": 404,
+    "name": "Valledupar",
+    "code": 20001,
+    "region_id": 20
+  },
+  {
+    "id": 405,
+    "name": "Aguachica",
+    "code": 20011,
+    "region_id": 20
+  },
+  {
+    "id": 406,
+    "name": "Agustín Codazzi",
+    "code": 20013,
+    "region_id": 20
+  },
+  {
+    "id": 407,
+    "name": "Astrea",
+    "code": 20032,
+    "region_id": 20
+  },
+  {
+    "id": 408,
+    "name": "Becerril",
+    "code": 20045,
+    "region_id": 20
+  },
+  {
+    "id": 409,
+    "name": "Bosconia",
+    "code": 20060,
+    "region_id": 20
+  },
+  {
+    "id": 410,
+    "name": "Chimichagua",
+    "code": 20175,
+    "region_id": 20
+  },
+  {
+    "id": 411,
+    "name": "Chiriguaná",
+    "code": 20178,
+    "region_id": 20
+  },
+  {
+    "id": 412,
+    "name": "Curumaní",
+    "code": 20228,
+    "region_id": 20
+  },
+  {
+    "id": 413,
+    "name": "El Copey",
+    "code": 20238,
+    "region_id": 20
+  },
+  {
+    "id": 414,
+    "name": "El Paso",
+    "code": 20250,
+    "region_id": 20
+  },
+  {
+    "id": 415,
+    "name": "Gamarra",
+    "code": 20295,
+    "region_id": 20
+  },
+  {
+    "id": 416,
+    "name": "González",
+    "code": 20310,
+    "region_id": 20
+  },
+  {
+    "id": 417,
+    "name": "La Gloria",
+    "code": 20383,
+    "region_id": 20
+  },
+  {
+    "id": 418,
+    "name": "La Jagua De Ibirico",
+    "code": 20400,
+    "region_id": 20
+  },
+  {
+    "id": 419,
+    "name": "Manaure",
+    "code": 20443,
+    "region_id": 20
+  },
+  {
+    "id": 420,
+    "name": "Pailitas",
+    "code": 20517,
+    "region_id": 20
+  },
+  {
+    "id": 421,
+    "name": "Pelaya",
+    "code": 20550,
+    "region_id": 20
+  },
+  {
+    "id": 422,
+    "name": "Pueblo Bello",
+    "code": 20570,
+    "region_id": 20
+  },
+  {
+    "id": 423,
+    "name": "Río De Oro",
+    "code": 20614,
+    "region_id": 20
+  },
+  {
+    "id": 424,
+    "name": "La Paz",
+    "code": 20621,
+    "region_id": 20
+  },
+  {
+    "id": 425,
+    "name": "San Alberto",
+    "code": 20710,
+    "region_id": 20
+  },
+  {
+    "id": 426,
+    "name": "San Diego",
+    "code": 20750,
+    "region_id": 20
+  },
+  {
+    "id": 427,
+    "name": "San Martín",
+    "code": 20770,
+    "region_id": 20
+  },
+  {
+    "id": 428,
+    "name": "Tamalameque",
+    "code": 20787,
+    "region_id": 20
+  },
+  {
+    "id": 429,
+    "name": "Montería",
+    "code": 23001,
+    "region_id": 23
+  },
+  {
+    "id": 430,
+    "name": "Ayapel",
+    "code": 23068,
+    "region_id": 23
+  },
+  {
+    "id": 431,
+    "name": "Buenavista",
+    "code": 23079,
+    "region_id": 23
+  },
+  {
+    "id": 432,
+    "name": "Canalete",
+    "code": 23090,
+    "region_id": 23
+  },
+  {
+    "id": 433,
+    "name": "Cereté",
+    "code": 23162,
+    "region_id": 23
+  },
+  {
+    "id": 434,
+    "name": "Chima",
+    "code": 23168,
+    "region_id": 23
+  },
+  {
+    "id": 435,
+    "name": "Chinú",
+    "code": 23182,
+    "region_id": 23
+  },
+  {
+    "id": 436,
+    "name": "Ciénaga De Oro",
+    "code": 23189,
+    "region_id": 23
+  },
+  {
+    "id": 437,
+    "name": "Cotorra",
+    "code": 23300,
+    "region_id": 23
+  },
+  {
+    "id": 438,
+    "name": "La Apartada",
+    "code": 23350,
+    "region_id": 23
+  },
+  {
+    "id": 439,
+    "name": "Lorica",
+    "code": 23417,
+    "region_id": 23
+  },
+  {
+    "id": 440,
+    "name": "Los Córdobas",
+    "code": 23419,
+    "region_id": 23
+  },
+  {
+    "id": 441,
+    "name": "Momil",
+    "code": 23464,
+    "region_id": 23
+  },
+  {
+    "id": 442,
+    "name": "Montelíbano",
+    "code": 23466,
+    "region_id": 23
+  },
+  {
+    "id": 443,
+    "name": "Moñitos",
+    "code": 23500,
+    "region_id": 23
+  },
+  {
+    "id": 444,
+    "name": "Planeta Rica",
+    "code": 23555,
+    "region_id": 23
+  },
+  {
+    "id": 445,
+    "name": "Pueblo Nuevo",
+    "code": 23570,
+    "region_id": 23
+  },
+  {
+    "id": 446,
+    "name": "Puerto Escondido",
+    "code": 23574,
+    "region_id": 23
+  },
+  {
+    "id": 447,
+    "name": "Puerto Libertador",
+    "code": 23580,
+    "region_id": 23
+  },
+  {
+    "id": 448,
+    "name": "Purísima",
+    "code": 23586,
+    "region_id": 23
+  },
+  {
+    "id": 449,
+    "name": "Sahagún",
+    "code": 23660,
+    "region_id": 23
+  },
+  {
+    "id": 450,
+    "name": "San Andrés De Sotavet0",
+    "code": 23670,
+    "region_id": 23
+  },
+  {
+    "id": 451,
+    "name": "San Antero",
+    "code": 23672,
+    "region_id": 23
+  },
+  {
+    "id": 452,
+    "name": "San Bernardo Del Viento",
+    "code": 23675,
+    "region_id": 23
+  },
+  {
+    "id": 453,
+    "name": "San Carlos",
+    "code": 23678,
+    "region_id": 23
+  },
+  {
+    "id": 454,
+    "name": "San Jose De Ure",
+    "code": 23682,
+    "region_id": 23
+  },
+  {
+    "id": 455,
+    "name": "San Pelayo",
+    "code": 23686,
+    "region_id": 23
+  },
+  {
+    "id": 456,
+    "name": "Tierralta",
+    "code": 23807,
+    "region_id": 23
+  },
+  {
+    "id": 457,
+    "name": "Tuchin",
+    "code": 23815,
+    "region_id": 23
+  },
+  {
+    "id": 458,
+    "name": "Valencia",
+    "code": 23855,
+    "region_id": 23
+  },
+  {
+    "id": 459,
+    "name": "Zzzcerromatoso",
+    "code": 23991,
+    "region_id": 23
+  },
+  {
+    "id": 460,
+    "name": "Agua De Dios",
+    "code": 25001,
+    "region_id": 25
+  },
+  {
+    "id": 461,
+    "name": "Albán",
+    "code": 25019,
+    "region_id": 25
+  },
+  {
+    "id": 462,
+    "name": "Anapoima",
+    "code": 25035,
+    "region_id": 25
+  },
+  {
+    "id": 463,
+    "name": "Anolaima",
+    "code": 25040,
+    "region_id": 25
+  },
+  {
+    "id": 464,
+    "name": "Arbeláez",
+    "code": 25053,
+    "region_id": 25
+  },
+  {
+    "id": 465,
+    "name": "Beltrán",
+    "code": 25086,
+    "region_id": 25
+  },
+  {
+    "id": 466,
+    "name": "Bituima",
+    "code": 25095,
+    "region_id": 25
+  },
+  {
+    "id": 467,
+    "name": "Bojacá",
+    "code": 25099,
+    "region_id": 25
+  },
+  {
+    "id": 468,
+    "name": "Cabrera",
+    "code": 25120,
+    "region_id": 25
+  },
+  {
+    "id": 469,
+    "name": "Cachipay",
+    "code": 25123,
+    "region_id": 25
+  },
+  {
+    "id": 470,
+    "name": "Cajicá",
+    "code": 25126,
+    "region_id": 25
+  },
+  {
+    "id": 471,
+    "name": "Caparrapí",
+    "code": 25148,
+    "region_id": 25
+  },
+  {
+    "id": 472,
+    "name": "Cáqueza",
+    "code": 25151,
+    "region_id": 25
+  },
+  {
+    "id": 473,
+    "name": "Carmen De Carupa",
+    "code": 25154,
+    "region_id": 25
+  },
+  {
+    "id": 474,
+    "name": "Chaguaní",
+    "code": 25168,
+    "region_id": 25
+  },
+  {
+    "id": 475,
+    "name": "Chía",
+    "code": 25175,
+    "region_id": 25
+  },
+  {
+    "id": 476,
+    "name": "Chipaque",
+    "code": 25178,
+    "region_id": 25
+  },
+  {
+    "id": 477,
+    "name": "Choachí",
+    "code": 25181,
+    "region_id": 25
+  },
+  {
+    "id": 478,
+    "name": "Chocontá",
+    "code": 25183,
+    "region_id": 25
+  },
+  {
+    "id": 479,
+    "name": "Cogua",
+    "code": 25200,
+    "region_id": 25
+  },
+  {
+    "id": 480,
+    "name": "Cota",
+    "code": 25214,
+    "region_id": 25
+  },
+  {
+    "id": 481,
+    "name": "Cucunubá",
+    "code": 25224,
+    "region_id": 25
+  },
+  {
+    "id": 482,
+    "name": "El Colegio",
+    "code": 25245,
+    "region_id": 25
+  },
+  {
+    "id": 483,
+    "name": "El Peñón",
+    "code": 25258,
+    "region_id": 25
+  },
+  {
+    "id": 484,
+    "name": "El Rosal",
+    "code": 25260,
+    "region_id": 25
+  },
+  {
+    "id": 485,
+    "name": "Facatativá",
+    "code": 25269,
+    "region_id": 25
+  },
+  {
+    "id": 486,
+    "name": "Fómeque",
+    "code": 25279,
+    "region_id": 25
+  },
+  {
+    "id": 487,
+    "name": "Fosca",
+    "code": 25281,
+    "region_id": 25
+  },
+  {
+    "id": 488,
+    "name": "Funza",
+    "code": 25286,
+    "region_id": 25
+  },
+  {
+    "id": 489,
+    "name": "Fúquene",
+    "code": 25288,
+    "region_id": 25
+  },
+  {
+    "id": 490,
+    "name": "Fusagasugá",
+    "code": 25290,
+    "region_id": 25
+  },
+  {
+    "id": 491,
+    "name": "Gachalá",
+    "code": 25293,
+    "region_id": 25
+  },
+  {
+    "id": 492,
+    "name": "Gachancipá",
+    "code": 25295,
+    "region_id": 25
+  },
+  {
+    "id": 493,
+    "name": "Gachetá",
+    "code": 25297,
+    "region_id": 25
+  },
+  {
+    "id": 494,
+    "name": "Gama",
+    "code": 25299,
+    "region_id": 25
+  },
+  {
+    "id": 495,
+    "name": "Girardot",
+    "code": 25307,
+    "region_id": 25
+  },
+  {
+    "id": 496,
+    "name": "Granada",
+    "code": 25312,
+    "region_id": 25
+  },
+  {
+    "id": 497,
+    "name": "Guachetá",
+    "code": 25317,
+    "region_id": 25
+  },
+  {
+    "id": 498,
+    "name": "Guaduas",
+    "code": 25320,
+    "region_id": 25
+  },
+  {
+    "id": 499,
+    "name": "Guasca",
+    "code": 25322,
+    "region_id": 25
+  },
+  {
+    "id": 500,
+    "name": "Guataquí",
+    "code": 25324,
+    "region_id": 25
+  },
+  {
+    "id": 501,
+    "name": "Guatavita",
+    "code": 25326,
+    "region_id": 25
+  },
+  {
+    "id": 502,
+    "name": "Guayabal De Síquima",
+    "code": 25328,
+    "region_id": 25
+  },
+  {
+    "id": 503,
+    "name": "Guayabetal",
+    "code": 25335,
+    "region_id": 25
+  },
+  {
+    "id": 504,
+    "name": "Gutiérrez",
+    "code": 25339,
+    "region_id": 25
+  },
+  {
+    "id": 505,
+    "name": "Jerusalén",
+    "code": 25368,
+    "region_id": 25
+  },
+  {
+    "id": 506,
+    "name": "Junín",
+    "code": 25372,
+    "region_id": 25
+  },
+  {
+    "id": 507,
+    "name": "La Calera",
+    "code": 25377,
+    "region_id": 25
+  },
+  {
+    "id": 508,
+    "name": "La Mesa",
+    "code": 25386,
+    "region_id": 25
+  },
+  {
+    "id": 509,
+    "name": "La Palma",
+    "code": 25394,
+    "region_id": 25
+  },
+  {
+    "id": 510,
+    "name": "La Peña",
+    "code": 25398,
+    "region_id": 25
+  },
+  {
+    "id": 511,
+    "name": "La Vega",
+    "code": 25402,
+    "region_id": 25
+  },
+  {
+    "id": 512,
+    "name": "Lenguazaque",
+    "code": 25407,
+    "region_id": 25
+  },
+  {
+    "id": 513,
+    "name": "Machetá",
+    "code": 25426,
+    "region_id": 25
+  },
+  {
+    "id": 514,
+    "name": "Madrid",
+    "code": 25430,
+    "region_id": 25
+  },
+  {
+    "id": 515,
+    "name": "Manta",
+    "code": 25436,
+    "region_id": 25
+  },
+  {
+    "id": 516,
+    "name": "Medina",
+    "code": 25438,
+    "region_id": 25
+  },
+  {
+    "id": 517,
+    "name": "Mosquera",
+    "code": 25473,
+    "region_id": 25
+  },
+  {
+    "id": 518,
+    "name": "Nariño",
+    "code": 25483,
+    "region_id": 25
+  },
+  {
+    "id": 519,
+    "name": "Nemocón",
+    "code": 25486,
+    "region_id": 25
+  },
+  {
+    "id": 520,
+    "name": "Nilo",
+    "code": 25488,
+    "region_id": 25
+  },
+  {
+    "id": 521,
+    "name": "Nimaima",
+    "code": 25489,
+    "region_id": 25
+  },
+  {
+    "id": 522,
+    "name": "Nocaima",
+    "code": 25491,
+    "region_id": 25
+  },
+  {
+    "id": 523,
+    "name": "Venecia",
+    "code": 25506,
+    "region_id": 25
+  },
+  {
+    "id": 524,
+    "name": "Pacho",
+    "code": 25513,
+    "region_id": 25
+  },
+  {
+    "id": 525,
+    "name": "Paime",
+    "code": 25518,
+    "region_id": 25
+  },
+  {
+    "id": 526,
+    "name": "Pandi",
+    "code": 25524,
+    "region_id": 25
+  },
+  {
+    "id": 527,
+    "name": "Paratebueno",
+    "code": 25530,
+    "region_id": 25
+  },
+  {
+    "id": 528,
+    "name": "Pasca",
+    "code": 25535,
+    "region_id": 25
+  },
+  {
+    "id": 529,
+    "name": "Puerto Salgar",
+    "code": 25572,
+    "region_id": 25
+  },
+  {
+    "id": 530,
+    "name": "Pulí",
+    "code": 25580,
+    "region_id": 25
+  },
+  {
+    "id": 531,
+    "name": "Quebradanegra",
+    "code": 25592,
+    "region_id": 25
+  },
+  {
+    "id": 532,
+    "name": "Quetame",
+    "code": 25594,
+    "region_id": 25
+  },
+  {
+    "id": 533,
+    "name": "Quípile",
+    "code": 25596,
+    "region_id": 25
+  },
+  {
+    "id": 534,
+    "name": "Apulo",
+    "code": 25599,
+    "region_id": 25
+  },
+  {
+    "id": 535,
+    "name": "Ricaurte",
+    "code": 25612,
+    "region_id": 25
+  },
+  {
+    "id": 536,
+    "name": "San Antonio De Tequendama",
+    "code": 25645,
+    "region_id": 25
+  },
+  {
+    "id": 537,
+    "name": "San Bernardo",
+    "code": 25649,
+    "region_id": 25
+  },
+  {
+    "id": 538,
+    "name": "San Cayetano",
+    "code": 25653,
+    "region_id": 25
+  },
+  {
+    "id": 539,
+    "name": "San Francisco",
+    "code": 25658,
+    "region_id": 25
+  },
+  {
+    "id": 540,
+    "name": "San Juan De Rioseco",
+    "code": 25662,
+    "region_id": 25
+  },
+  {
+    "id": 541,
+    "name": "Sasaima",
+    "code": 25718,
+    "region_id": 25
+  },
+  {
+    "id": 542,
+    "name": "Sesquilé",
+    "code": 25736,
+    "region_id": 25
+  },
+  {
+    "id": 543,
+    "name": "Sibaté",
+    "code": 25740,
+    "region_id": 25
+  },
+  {
+    "id": 544,
+    "name": "Silvania",
+    "code": 25743,
+    "region_id": 25
+  },
+  {
+    "id": 545,
+    "name": "Simijaca",
+    "code": 25745,
+    "region_id": 25
+  },
+  {
+    "id": 546,
+    "name": "Soacha",
+    "code": 25754,
+    "region_id": 25
+  },
+  {
+    "id": 547,
+    "name": "Sopó",
+    "code": 25758,
+    "region_id": 25
+  },
+  {
+    "id": 548,
+    "name": "Subachoque",
+    "code": 25769,
+    "region_id": 25
+  },
+  {
+    "id": 549,
+    "name": "Suesca",
+    "code": 25772,
+    "region_id": 25
+  },
+  {
+    "id": 550,
+    "name": "Supatá",
+    "code": 25777,
+    "region_id": 25
+  },
+  {
+    "id": 551,
+    "name": "Susa",
+    "code": 25779,
+    "region_id": 25
+  },
+  {
+    "id": 552,
+    "name": "Sutatausa",
+    "code": 25781,
+    "region_id": 25
+  },
+  {
+    "id": 553,
+    "name": "Tabio",
+    "code": 25785,
+    "region_id": 25
+  },
+  {
+    "id": 554,
+    "name": "Tausa",
+    "code": 25793,
+    "region_id": 25
+  },
+  {
+    "id": 555,
+    "name": "Tena",
+    "code": 25797,
+    "region_id": 25
+  },
+  {
+    "id": 556,
+    "name": "Tenjo",
+    "code": 25799,
+    "region_id": 25
+  },
+  {
+    "id": 557,
+    "name": "Tibacuy",
+    "code": 25805,
+    "region_id": 25
+  },
+  {
+    "id": 558,
+    "name": "Tibirita",
+    "code": 25807,
+    "region_id": 25
+  },
+  {
+    "id": 559,
+    "name": "Tocaima",
+    "code": 25815,
+    "region_id": 25
+  },
+  {
+    "id": 560,
+    "name": "Tocancipá",
+    "code": 25817,
+    "region_id": 25
+  },
+  {
+    "id": 561,
+    "name": "Topaipí",
+    "code": 25823,
+    "region_id": 25
+  },
+  {
+    "id": 562,
+    "name": "Ubalá",
+    "code": 25839,
+    "region_id": 25
+  },
+  {
+    "id": 563,
+    "name": "Ubaque",
+    "code": 25841,
+    "region_id": 25
+  },
+  {
+    "id": 564,
+    "name": "Ubaté",
+    "code": 25843,
+    "region_id": 25
+  },
+  {
+    "id": 565,
+    "name": "Une",
+    "code": 25845,
+    "region_id": 25
+  },
+  {
+    "id": 566,
+    "name": "Útica",
+    "code": 25851,
+    "region_id": 25
+  },
+  {
+    "id": 567,
+    "name": "Vergara",
+    "code": 25862,
+    "region_id": 25
+  },
+  {
+    "id": 568,
+    "name": "Vianí",
+    "code": 25867,
+    "region_id": 25
+  },
+  {
+    "id": 569,
+    "name": "Villagómez",
+    "code": 25871,
+    "region_id": 25
+  },
+  {
+    "id": 570,
+    "name": "Villapinzón",
+    "code": 25873,
+    "region_id": 25
+  },
+  {
+    "id": 571,
+    "name": "Villeta",
+    "code": 25875,
+    "region_id": 25
+  },
+  {
+    "id": 572,
+    "name": "Viotá",
+    "code": 25878,
+    "region_id": 25
+  },
+  {
+    "id": 573,
+    "name": "Yacopí",
+    "code": 25885,
+    "region_id": 25
+  },
+  {
+    "id": 574,
+    "name": "Zipacón",
+    "code": 25898,
+    "region_id": 25
+  },
+  {
+    "id": 575,
+    "name": "Zipaquira",
+    "code": 25899,
+    "region_id": 25
+  },
+  {
+    "id": 576,
+    "name": "Quibdo",
+    "code": 27001,
+    "region_id": 27
+  },
+  {
+    "id": 577,
+    "name": "Acandí",
+    "code": 27006,
+    "region_id": 27
+  },
+  {
+    "id": 578,
+    "name": "Alto Baudó",
+    "code": 27025,
+    "region_id": 27
+  },
+  {
+    "id": 579,
+    "name": "Atrato",
+    "code": 27050,
+    "region_id": 27
+  },
+  {
+    "id": 580,
+    "name": "Bagadó",
+    "code": 27073,
+    "region_id": 27
+  },
+  {
+    "id": 581,
+    "name": "Bahía Solano",
+    "code": 27075,
+    "region_id": 27
+  },
+  {
+    "id": 582,
+    "name": "Bajo Baudó",
+    "code": 27077,
+    "region_id": 27
+  },
+  {
+    "id": 583,
+    "name": "Zzzbelen De Bajira",
+    "code": 27086,
+    "region_id": 27
+  },
+  {
+    "id": 584,
+    "name": "Bojayá",
+    "code": 27099,
+    "region_id": 27
+  },
+  {
+    "id": 585,
+    "name": "Cantón Del San Pablo",
+    "code": 27135,
+    "region_id": 27
+  },
+  {
+    "id": 586,
+    "name": "Carmen Del Darien",
+    "code": 27150,
+    "region_id": 27
+  },
+  {
+    "id": 587,
+    "name": "Certegui",
+    "code": 27160,
+    "region_id": 27
+  },
+  {
+    "id": 588,
+    "name": "Condoto",
+    "code": 27205,
+    "region_id": 27
+  },
+  {
+    "id": 589,
+    "name": "El Carmen De Atrato",
+    "code": 27245,
+    "region_id": 27
+  },
+  {
+    "id": 590,
+    "name": "Litoral Del Bajo San Juan",
+    "code": 27250,
+    "region_id": 27
+  },
+  {
+    "id": 591,
+    "name": "Istmina",
+    "code": 27361,
+    "region_id": 27
+  },
+  {
+    "id": 592,
+    "name": "Juradó",
+    "code": 27372,
+    "region_id": 27
+  },
+  {
+    "id": 593,
+    "name": "Lloró",
+    "code": 27413,
+    "region_id": 27
+  },
+  {
+    "id": 594,
+    "name": "Medio Atrato",
+    "code": 27425,
+    "region_id": 27
+  },
+  {
+    "id": 595,
+    "name": "Medio Baudo",
+    "code": 27430,
+    "region_id": 27
+  },
+  {
+    "id": 596,
+    "name": "Medio San Juan",
+    "code": 27450,
+    "region_id": 27
+  },
+  {
+    "id": 597,
+    "name": "Nóvita",
+    "code": 27491,
+    "region_id": 27
+  },
+  {
+    "id": 598,
+    "name": "Nuquí",
+    "code": 27495,
+    "region_id": 27
+  },
+  {
+    "id": 599,
+    "name": "Río Iro",
+    "code": 27580,
+    "region_id": 27
+  },
+  {
+    "id": 600,
+    "name": "Rio Quito",
+    "code": 27600,
+    "region_id": 27
+  },
+  {
+    "id": 601,
+    "name": "Riosucio",
+    "code": 27615,
+    "region_id": 27
+  },
+  {
+    "id": 602,
+    "name": "San José Del Palmar",
+    "code": 27660,
+    "region_id": 27
+  },
+  {
+    "id": 603,
+    "name": "Sipí",
+    "code": 27745,
+    "region_id": 27
+  },
+  {
+    "id": 604,
+    "name": "Tadó",
+    "code": 27787,
+    "region_id": 27
+  },
+  {
+    "id": 605,
+    "name": "Unguía",
+    "code": 27800,
+    "region_id": 27
+  },
+  {
+    "id": 606,
+    "name": "Unión Panamericana",
+    "code": 27810,
+    "region_id": 27
+  },
+  {
+    "id": 607,
+    "name": "Neiva",
+    "code": 41001,
+    "region_id": 41
+  },
+  {
+    "id": 608,
+    "name": "Acevedo",
+    "code": 41006,
+    "region_id": 41
+  },
+  {
+    "id": 609,
+    "name": "Agrado",
+    "code": 41013,
+    "region_id": 41
+  },
+  {
+    "id": 610,
+    "name": "Aipe",
+    "code": 41016,
+    "region_id": 41
+  },
+  {
+    "id": 611,
+    "name": "Algeciras",
+    "code": 41020,
+    "region_id": 41
+  },
+  {
+    "id": 612,
+    "name": "Altamira",
+    "code": 41026,
+    "region_id": 41
+  },
+  {
+    "id": 613,
+    "name": "Baraya",
+    "code": 41078,
+    "region_id": 41
+  },
+  {
+    "id": 614,
+    "name": "Campoalegre",
+    "code": 41132,
+    "region_id": 41
+  },
+  {
+    "id": 615,
+    "name": "Colombia",
+    "code": 41206,
+    "region_id": 41
+  },
+  {
+    "id": 616,
+    "name": "Elías",
+    "code": 41244,
+    "region_id": 41
+  },
+  {
+    "id": 617,
+    "name": "Garzón",
+    "code": 41298,
+    "region_id": 41
+  },
+  {
+    "id": 618,
+    "name": "Gigante",
+    "code": 41306,
+    "region_id": 41
+  },
+  {
+    "id": 619,
+    "name": "Guadalupe",
+    "code": 41319,
+    "region_id": 41
+  },
+  {
+    "id": 620,
+    "name": "Hobo",
+    "code": 41349,
+    "region_id": 41
+  },
+  {
+    "id": 621,
+    "name": "Iquira",
+    "code": 41357,
+    "region_id": 41
+  },
+  {
+    "id": 622,
+    "name": "Isnos",
+    "code": 41359,
+    "region_id": 41
+  },
+  {
+    "id": 623,
+    "name": "La Argentina",
+    "code": 41378,
+    "region_id": 41
+  },
+  {
+    "id": 624,
+    "name": "La Plata",
+    "code": 41396,
+    "region_id": 41
+  },
+  {
+    "id": 625,
+    "name": "Nátaga",
+    "code": 41483,
+    "region_id": 41
+  },
+  {
+    "id": 626,
+    "name": "Oporapa",
+    "code": 41503,
+    "region_id": 41
+  },
+  {
+    "id": 627,
+    "name": "Paicol",
+    "code": 41518,
+    "region_id": 41
+  },
+  {
+    "id": 628,
+    "name": "Palermo",
+    "code": 41524,
+    "region_id": 41
+  },
+  {
+    "id": 629,
+    "name": "Palestina",
+    "code": 41530,
+    "region_id": 41
+  },
+  {
+    "id": 630,
+    "name": "Pital",
+    "code": 41548,
+    "region_id": 41
+  },
+  {
+    "id": 631,
+    "name": "Pitalito",
+    "code": 41551,
+    "region_id": 41
+  },
+  {
+    "id": 632,
+    "name": "Rivera",
+    "code": 41615,
+    "region_id": 41
+  },
+  {
+    "id": 633,
+    "name": "Saladoblanco",
+    "code": 41660,
+    "region_id": 41
+  },
+  {
+    "id": 634,
+    "name": "San Agustín",
+    "code": 41668,
+    "region_id": 41
+  },
+  {
+    "id": 635,
+    "name": "Santa María",
+    "code": 41676,
+    "region_id": 41
+  },
+  {
+    "id": 636,
+    "name": "Suaza",
+    "code": 41770,
+    "region_id": 41
+  },
+  {
+    "id": 637,
+    "name": "Tarqui",
+    "code": 41791,
+    "region_id": 41
+  },
+  {
+    "id": 638,
+    "name": "Tesalia",
+    "code": 41797,
+    "region_id": 41
+  },
+  {
+    "id": 639,
+    "name": "Tello",
+    "code": 41799,
+    "region_id": 41
+  },
+  {
+    "id": 640,
+    "name": "Teruel",
+    "code": 41801,
+    "region_id": 41
+  },
+  {
+    "id": 641,
+    "name": "Timaná",
+    "code": 41807,
+    "region_id": 41
+  },
+  {
+    "id": 642,
+    "name": "Villavieja",
+    "code": 41872,
+    "region_id": 41
+  },
+  {
+    "id": 643,
+    "name": "Yaguará",
+    "code": 41885,
+    "region_id": 41
+  },
+  {
+    "id": 644,
+    "name": "Riohacha",
+    "code": 44001,
+    "region_id": 44
+  },
+  {
+    "id": 645,
+    "name": "Albania",
+    "code": 44035,
+    "region_id": 44
+  },
+  {
+    "id": 646,
+    "name": "Barrancas",
+    "code": 44078,
+    "region_id": 44
+  },
+  {
+    "id": 647,
+    "name": "Dibulla",
+    "code": 44090,
+    "region_id": 44
+  },
+  {
+    "id": 648,
+    "name": "Distraccion",
+    "code": 44098,
+    "region_id": 44
+  },
+  {
+    "id": 649,
+    "name": "El Molino",
+    "code": 44110,
+    "region_id": 44
+  },
+  {
+    "id": 650,
+    "name": "Fonseca",
+    "code": 44279,
+    "region_id": 44
+  },
+  {
+    "id": 651,
+    "name": "Hatonuevo",
+    "code": 44378,
+    "region_id": 44
+  },
+  {
+    "id": 652,
+    "name": "La Jagua Del Pilar",
+    "code": 44420,
+    "region_id": 44
+  },
+  {
+    "id": 653,
+    "name": "Maicao",
+    "code": 44430,
+    "region_id": 44
+  },
+  {
+    "id": 654,
+    "name": "Manaure",
+    "code": 44560,
+    "region_id": 44
+  },
+  {
+    "id": 655,
+    "name": "San Juan Del Cesar",
+    "code": 44650,
+    "region_id": 44
+  },
+  {
+    "id": 656,
+    "name": "Uribia",
+    "code": 44847,
+    "region_id": 44
+  },
+  {
+    "id": 657,
+    "name": "Urumita",
+    "code": 44855,
+    "region_id": 44
+  },
+  {
+    "id": 658,
+    "name": "Villanueva",
+    "code": 44874,
+    "region_id": 44
+  },
+  {
+    "id": 659,
+    "name": "Santa Marta",
+    "code": 47001,
+    "region_id": 47
+  },
+  {
+    "id": 660,
+    "name": "Algarrobo",
+    "code": 47030,
+    "region_id": 47
+  },
+  {
+    "id": 661,
+    "name": "Aracataca",
+    "code": 47053,
+    "region_id": 47
+  },
+  {
+    "id": 662,
+    "name": "Ariguaní",
+    "code": 47058,
+    "region_id": 47
+  },
+  {
+    "id": 663,
+    "name": "Cerro San Antonio",
+    "code": 47161,
+    "region_id": 47
+  },
+  {
+    "id": 664,
+    "name": "Chivoló",
+    "code": 47170,
+    "region_id": 47
+  },
+  {
+    "id": 665,
+    "name": "Ciénaga",
+    "code": 47189,
+    "region_id": 47
+  },
+  {
+    "id": 666,
+    "name": "Concordia",
+    "code": 47205,
+    "region_id": 47
+  },
+  {
+    "id": 667,
+    "name": "El Banco",
+    "code": 47245,
+    "region_id": 47
+  },
+  {
+    "id": 668,
+    "name": "El Piñón",
+    "code": 47258,
+    "region_id": 47
+  },
+  {
+    "id": 669,
+    "name": "El Retén",
+    "code": 47268,
+    "region_id": 47
+  },
+  {
+    "id": 670,
+    "name": "Fundación",
+    "code": 47288,
+    "region_id": 47
+  },
+  {
+    "id": 671,
+    "name": "Guamal",
+    "code": 47318,
+    "region_id": 47
+  },
+  {
+    "id": 672,
+    "name": "Nueva Granada",
+    "code": 47460,
+    "region_id": 47
+  },
+  {
+    "id": 673,
+    "name": "Pedraza",
+    "code": 47541,
+    "region_id": 47
+  },
+  {
+    "id": 674,
+    "name": "Pijino Del Carmen",
+    "code": 47545,
+    "region_id": 47
+  },
+  {
+    "id": 675,
+    "name": "Pivijay",
+    "code": 47551,
+    "region_id": 47
+  },
+  {
+    "id": 676,
+    "name": "Plato",
+    "code": 47555,
+    "region_id": 47
+  },
+  {
+    "id": 677,
+    "name": "Puebloviejo",
+    "code": 47570,
+    "region_id": 47
+  },
+  {
+    "id": 678,
+    "name": "Remolino",
+    "code": 47605,
+    "region_id": 47
+  },
+  {
+    "id": 679,
+    "name": "Sabanas De San Ángel",
+    "code": 47660,
+    "region_id": 47
+  },
+  {
+    "id": 680,
+    "name": "Salamina",
+    "code": 47675,
+    "region_id": 47
+  },
+  {
+    "id": 681,
+    "name": "San Sebastián De Buenavista",
+    "code": 47692,
+    "region_id": 47
+  },
+  {
+    "id": 682,
+    "name": "San Zenón",
+    "code": 47703,
+    "region_id": 47
+  },
+  {
+    "id": 683,
+    "name": "Santa Ana",
+    "code": 47707,
+    "region_id": 47
+  },
+  {
+    "id": 684,
+    "name": "Santa Barbara De Pinto",
+    "code": 47720,
+    "region_id": 47
+  },
+  {
+    "id": 685,
+    "name": "Sitionuevo",
+    "code": 47745,
+    "region_id": 47
+  },
+  {
+    "id": 686,
+    "name": "Tenerife",
+    "code": 47798,
+    "region_id": 47
+  },
+  {
+    "id": 687,
+    "name": "Zapayán",
+    "code": 47960,
+    "region_id": 47
+  },
+  {
+    "id": 688,
+    "name": "Zona Bananera",
+    "code": 47980,
+    "region_id": 47
+  },
+  {
+    "id": 689,
+    "name": "Villavicencio",
+    "code": 50001,
+    "region_id": 50
+  },
+  {
+    "id": 690,
+    "name": "Acacías",
+    "code": 50006,
+    "region_id": 50
+  },
+  {
+    "id": 691,
+    "name": "Barranca De Upía",
+    "code": 50110,
+    "region_id": 50
+  },
+  {
+    "id": 692,
+    "name": "Cabuyaro",
+    "code": 50124,
+    "region_id": 50
+  },
+  {
+    "id": 693,
+    "name": "Castilla La Nueva",
+    "code": 50150,
+    "region_id": 50
+  },
+  {
+    "id": 694,
+    "name": "Cubarral",
+    "code": 50223,
+    "region_id": 50
+  },
+  {
+    "id": 695,
+    "name": "Cumaral",
+    "code": 50226,
+    "region_id": 50
+  },
+  {
+    "id": 696,
+    "name": "El Calvario",
+    "code": 50245,
+    "region_id": 50
+  },
+  {
+    "id": 697,
+    "name": "El Castillo",
+    "code": 50251,
+    "region_id": 50
+  },
+  {
+    "id": 698,
+    "name": "El Dorado",
+    "code": 50270,
+    "region_id": 50
+  },
+  {
+    "id": 699,
+    "name": "Fuente De Oro",
+    "code": 50287,
+    "region_id": 50
+  },
+  {
+    "id": 700,
+    "name": "Granada",
+    "code": 50313,
+    "region_id": 50
+  },
+  {
+    "id": 701,
+    "name": "Guamal",
+    "code": 50318,
+    "region_id": 50
+  },
+  {
+    "id": 702,
+    "name": "Mapiripán",
+    "code": 50325,
+    "region_id": 50
+  },
+  {
+    "id": 703,
+    "name": "Mesetas",
+    "code": 50330,
+    "region_id": 50
+  },
+  {
+    "id": 704,
+    "name": "La Macarena",
+    "code": 50350,
+    "region_id": 50
+  },
+  {
+    "id": 705,
+    "name": "Uribe",
+    "code": 50370,
+    "region_id": 50
+  },
+  {
+    "id": 706,
+    "name": "Lejanías",
+    "code": 50400,
+    "region_id": 50
+  },
+  {
+    "id": 707,
+    "name": "Puerto Concordia",
+    "code": 50450,
+    "region_id": 50
+  },
+  {
+    "id": 708,
+    "name": "Puerto Gaitán",
+    "code": 50568,
+    "region_id": 50
+  },
+  {
+    "id": 709,
+    "name": "Puerto López",
+    "code": 50573,
+    "region_id": 50
+  },
+  {
+    "id": 710,
+    "name": "Puerto Lleras",
+    "code": 50577,
+    "region_id": 50
+  },
+  {
+    "id": 711,
+    "name": "Puerto Rico",
+    "code": 50590,
+    "region_id": 50
+  },
+  {
+    "id": 712,
+    "name": "Restrepo",
+    "code": 50606,
+    "region_id": 50
+  },
+  {
+    "id": 713,
+    "name": "San Carlos De Guaroa",
+    "code": 50680,
+    "region_id": 50
+  },
+  {
+    "id": 714,
+    "name": "San Juan De Arama",
+    "code": 50683,
+    "region_id": 50
+  },
+  {
+    "id": 715,
+    "name": "San Juanito",
+    "code": 50686,
+    "region_id": 50
+  },
+  {
+    "id": 716,
+    "name": "San Martín",
+    "code": 50689,
+    "region_id": 50
+  },
+  {
+    "id": 717,
+    "name": "Vista Hermosa",
+    "code": 50711,
+    "region_id": 50
+  },
+  {
+    "id": 718,
+    "name": "Pasto",
+    "code": 52001,
+    "region_id": 52
+  },
+  {
+    "id": 719,
+    "name": "Albán",
+    "code": 52019,
+    "region_id": 52
+  },
+  {
+    "id": 720,
+    "name": "Aldana",
+    "code": 52022,
+    "region_id": 52
+  },
+  {
+    "id": 721,
+    "name": "Ancuyá",
+    "code": 52036,
+    "region_id": 52
+  },
+  {
+    "id": 722,
+    "name": "Arboleda",
+    "code": 52051,
+    "region_id": 52
+  },
+  {
+    "id": 723,
+    "name": "Barbacoas",
+    "code": 52079,
+    "region_id": 52
+  },
+  {
+    "id": 724,
+    "name": "Belén",
+    "code": 52083,
+    "region_id": 52
+  },
+  {
+    "id": 725,
+    "name": "Buesaco",
+    "code": 52110,
+    "region_id": 52
+  },
+  {
+    "id": 726,
+    "name": "Colón",
+    "code": 52203,
+    "region_id": 52
+  },
+  {
+    "id": 727,
+    "name": "Consacá",
+    "code": 52207,
+    "region_id": 52
+  },
+  {
+    "id": 728,
+    "name": "Contadero",
+    "code": 52210,
+    "region_id": 52
+  },
+  {
+    "id": 729,
+    "name": "Córdoba",
+    "code": 52215,
+    "region_id": 52
+  },
+  {
+    "id": 730,
+    "name": "Cuaspud",
+    "code": 52224,
+    "region_id": 52
+  },
+  {
+    "id": 731,
+    "name": "Cumbal",
+    "code": 52227,
+    "region_id": 52
+  },
+  {
+    "id": 732,
+    "name": "Cumbitara",
+    "code": 52233,
+    "region_id": 52
+  },
+  {
+    "id": 733,
+    "name": "Chachaguí",
+    "code": 52240,
+    "region_id": 52
+  },
+  {
+    "id": 734,
+    "name": "El Charco",
+    "code": 52250,
+    "region_id": 52
+  },
+  {
+    "id": 735,
+    "name": "El Peñol",
+    "code": 52254,
+    "region_id": 52
+  },
+  {
+    "id": 736,
+    "name": "El Rosario",
+    "code": 52256,
+    "region_id": 52
+  },
+  {
+    "id": 737,
+    "name": "El Tablón",
+    "code": 52258,
+    "region_id": 52
+  },
+  {
+    "id": 738,
+    "name": "El Tambo",
+    "code": 52260,
+    "region_id": 52
+  },
+  {
+    "id": 739,
+    "name": "Funes",
+    "code": 52287,
+    "region_id": 52
+  },
+  {
+    "id": 740,
+    "name": "Guachucal",
+    "code": 52317,
+    "region_id": 52
+  },
+  {
+    "id": 741,
+    "name": "Guaitarilla",
+    "code": 52320,
+    "region_id": 52
+  },
+  {
+    "id": 742,
+    "name": "Gualmatán",
+    "code": 52323,
+    "region_id": 52
+  },
+  {
+    "id": 743,
+    "name": "Iles",
+    "code": 52352,
+    "region_id": 52
+  },
+  {
+    "id": 744,
+    "name": "Imués",
+    "code": 52354,
+    "region_id": 52
+  },
+  {
+    "id": 745,
+    "name": "Ipiales",
+    "code": 52356,
+    "region_id": 52
+  },
+  {
+    "id": 746,
+    "name": "La Cruz",
+    "code": 52378,
+    "region_id": 52
+  },
+  {
+    "id": 747,
+    "name": "La Florida",
+    "code": 52381,
+    "region_id": 52
+  },
+  {
+    "id": 748,
+    "name": "La Llanada",
+    "code": 52385,
+    "region_id": 52
+  },
+  {
+    "id": 749,
+    "name": "La Tola",
+    "code": 52390,
+    "region_id": 52
+  },
+  {
+    "id": 750,
+    "name": "La Unión",
+    "code": 52399,
+    "region_id": 52
+  },
+  {
+    "id": 751,
+    "name": "Leiva",
+    "code": 52405,
+    "region_id": 52
+  },
+  {
+    "id": 752,
+    "name": "Linares",
+    "code": 52411,
+    "region_id": 52
+  },
+  {
+    "id": 753,
+    "name": "Los Andes",
+    "code": 52418,
+    "region_id": 52
+  },
+  {
+    "id": 754,
+    "name": "Maguí",
+    "code": 52427,
+    "region_id": 52
+  },
+  {
+    "id": 755,
+    "name": "Mallama",
+    "code": 52435,
+    "region_id": 52
+  },
+  {
+    "id": 756,
+    "name": "Mosquera",
+    "code": 52473,
+    "region_id": 52
+  },
+  {
+    "id": 757,
+    "name": "Nariño",
+    "code": 52480,
+    "region_id": 52
+  },
+  {
+    "id": 758,
+    "name": "Olaya Herrera",
+    "code": 52490,
+    "region_id": 52
+  },
+  {
+    "id": 759,
+    "name": "Ospina",
+    "code": 52506,
+    "region_id": 52
+  },
+  {
+    "id": 760,
+    "name": "Francisco Pizarro",
+    "code": 52520,
+    "region_id": 52
+  },
+  {
+    "id": 761,
+    "name": "Policarpa",
+    "code": 52540,
+    "region_id": 52
+  },
+  {
+    "id": 762,
+    "name": "Potosí",
+    "code": 52560,
+    "region_id": 52
+  },
+  {
+    "id": 763,
+    "name": "Providencia",
+    "code": 52565,
+    "region_id": 52
+  },
+  {
+    "id": 764,
+    "name": "Puerres",
+    "code": 52573,
+    "region_id": 52
+  },
+  {
+    "id": 765,
+    "name": "Pupiales",
+    "code": 52585,
+    "region_id": 52
+  },
+  {
+    "id": 766,
+    "name": "Ricaurte",
+    "code": 52612,
+    "region_id": 52
+  },
+  {
+    "id": 767,
+    "name": "Roberto Payán",
+    "code": 52621,
+    "region_id": 52
+  },
+  {
+    "id": 768,
+    "name": "Samaniego",
+    "code": 52678,
+    "region_id": 52
+  },
+  {
+    "id": 769,
+    "name": "Sandoná",
+    "code": 52683,
+    "region_id": 52
+  },
+  {
+    "id": 770,
+    "name": "San Bernardo",
+    "code": 52685,
+    "region_id": 52
+  },
+  {
+    "id": 771,
+    "name": "San Lorenzo",
+    "code": 52687,
+    "region_id": 52
+  },
+  {
+    "id": 772,
+    "name": "San Pablo",
+    "code": 52693,
+    "region_id": 52
+  },
+  {
+    "id": 773,
+    "name": "San Pedro De Cartago",
+    "code": 52694,
+    "region_id": 52
+  },
+  {
+    "id": 774,
+    "name": "Santa Bárbara",
+    "code": 52696,
+    "region_id": 52
+  },
+  {
+    "id": 775,
+    "name": "Santa Cruz",
+    "code": 52699,
+    "region_id": 52
+  },
+  {
+    "id": 776,
+    "name": "Sapuyes",
+    "code": 52720,
+    "region_id": 52
+  },
+  {
+    "id": 777,
+    "name": "Taminango",
+    "code": 52786,
+    "region_id": 52
+  },
+  {
+    "id": 778,
+    "name": "Tangua",
+    "code": 52788,
+    "region_id": 52
+  },
+  {
+    "id": 779,
+    "name": "Tumaco",
+    "code": 52835,
+    "region_id": 52
+  },
+  {
+    "id": 780,
+    "name": "Túquerres",
+    "code": 52838,
+    "region_id": 52
+  },
+  {
+    "id": 781,
+    "name": "Yacuanquer",
+    "code": 52885,
+    "region_id": 52
+  },
+  {
+    "id": 782,
+    "name": "Cúcuta",
+    "code": 54001,
+    "region_id": 54
+  },
+  {
+    "id": 783,
+    "name": "Ábrego",
+    "code": 54003,
+    "region_id": 54
+  },
+  {
+    "id": 784,
+    "name": "Arboledas",
+    "code": 54051,
+    "region_id": 54
+  },
+  {
+    "id": 785,
+    "name": "Bochalema",
+    "code": 54099,
+    "region_id": 54
+  },
+  {
+    "id": 786,
+    "name": "Bucarasica",
+    "code": 54109,
+    "region_id": 54
+  },
+  {
+    "id": 787,
+    "name": "Cácota",
+    "code": 54125,
+    "region_id": 54
+  },
+  {
+    "id": 788,
+    "name": "Cáchira",
+    "code": 54128,
+    "region_id": 54
+  },
+  {
+    "id": 789,
+    "name": "Chinácota",
+    "code": 54172,
+    "region_id": 54
+  },
+  {
+    "id": 790,
+    "name": "Chitagá",
+    "code": 54174,
+    "region_id": 54
+  },
+  {
+    "id": 791,
+    "name": "Convención",
+    "code": 54206,
+    "region_id": 54
+  },
+  {
+    "id": 792,
+    "name": "Cucutilla",
+    "code": 54223,
+    "region_id": 54
+  },
+  {
+    "id": 793,
+    "name": "Durania",
+    "code": 54239,
+    "region_id": 54
+  },
+  {
+    "id": 794,
+    "name": "El Carmen",
+    "code": 54245,
+    "region_id": 54
+  },
+  {
+    "id": 795,
+    "name": "El Tarra",
+    "code": 54250,
+    "region_id": 54
+  },
+  {
+    "id": 796,
+    "name": "El Zulia",
+    "code": 54261,
+    "region_id": 54
+  },
+  {
+    "id": 797,
+    "name": "Gramalote",
+    "code": 54313,
+    "region_id": 54
+  },
+  {
+    "id": 798,
+    "name": "Hacarí",
+    "code": 54344,
+    "region_id": 54
+  },
+  {
+    "id": 799,
+    "name": "Herrán",
+    "code": 54347,
+    "region_id": 54
+  },
+  {
+    "id": 800,
+    "name": "Labateca",
+    "code": 54377,
+    "region_id": 54
+  },
+  {
+    "id": 801,
+    "name": "La Esperanza",
+    "code": 54385,
+    "region_id": 54
+  },
+  {
+    "id": 802,
+    "name": "La Playa",
+    "code": 54398,
+    "region_id": 54
+  },
+  {
+    "id": 803,
+    "name": "Los Patios",
+    "code": 54405,
+    "region_id": 54
+  },
+  {
+    "id": 804,
+    "name": "Lourdes",
+    "code": 54418,
+    "region_id": 54
+  },
+  {
+    "id": 805,
+    "name": "Mutiscua",
+    "code": 54480,
+    "region_id": 54
+  },
+  {
+    "id": 806,
+    "name": "Ocaña",
+    "code": 54498,
+    "region_id": 54
+  },
+  {
+    "id": 807,
+    "name": "Pamplona",
+    "code": 54518,
+    "region_id": 54
+  },
+  {
+    "id": 808,
+    "name": "Pamplonita",
+    "code": 54520,
+    "region_id": 54
+  },
+  {
+    "id": 809,
+    "name": "Puerto Santander",
+    "code": 54553,
+    "region_id": 54
+  },
+  {
+    "id": 810,
+    "name": "Ragonvalia",
+    "code": 54599,
+    "region_id": 54
+  },
+  {
+    "id": 811,
+    "name": "Salazar",
+    "code": 54660,
+    "region_id": 54
+  },
+  {
+    "id": 812,
+    "name": "San Calixto",
+    "code": 54670,
+    "region_id": 54
+  },
+  {
+    "id": 813,
+    "name": "San Cayetano",
+    "code": 54673,
+    "region_id": 54
+  },
+  {
+    "id": 814,
+    "name": "Santiago",
+    "code": 54680,
+    "region_id": 54
+  },
+  {
+    "id": 815,
+    "name": "Sardinata",
+    "code": 54720,
+    "region_id": 54
+  },
+  {
+    "id": 816,
+    "name": "Silos",
+    "code": 54743,
+    "region_id": 54
+  },
+  {
+    "id": 817,
+    "name": "Teorama",
+    "code": 54800,
+    "region_id": 54
+  },
+  {
+    "id": 818,
+    "name": "Tibú",
+    "code": 54810,
+    "region_id": 54
+  },
+  {
+    "id": 819,
+    "name": "Toledo",
+    "code": 54820,
+    "region_id": 54
+  },
+  {
+    "id": 820,
+    "name": "Villa Caro",
+    "code": 54871,
+    "region_id": 54
+  },
+  {
+    "id": 821,
+    "name": "Villa Del Rosario",
+    "code": 54874,
+    "region_id": 54
+  },
+  {
+    "id": 822,
+    "name": "Armenia",
+    "code": 63001,
+    "region_id": 63
+  },
+  {
+    "id": 823,
+    "name": "Buenavista",
+    "code": 63111,
+    "region_id": 63
+  },
+  {
+    "id": 824,
+    "name": "Calarcá",
+    "code": 63130,
+    "region_id": 63
+  },
+  {
+    "id": 825,
+    "name": "Circasia",
+    "code": 63190,
+    "region_id": 63
+  },
+  {
+    "id": 826,
+    "name": "Córdoba",
+    "code": 63212,
+    "region_id": 63
+  },
+  {
+    "id": 827,
+    "name": "Filandia",
+    "code": 63272,
+    "region_id": 63
+  },
+  {
+    "id": 828,
+    "name": "Génova",
+    "code": 63302,
+    "region_id": 63
+  },
+  {
+    "id": 829,
+    "name": "La Tebaida",
+    "code": 63401,
+    "region_id": 63
+  },
+  {
+    "id": 830,
+    "name": "Montenegro",
+    "code": 63470,
+    "region_id": 63
+  },
+  {
+    "id": 831,
+    "name": "Pijao",
+    "code": 63548,
+    "region_id": 63
+  },
+  {
+    "id": 832,
+    "name": "Quimbaya",
+    "code": 63594,
+    "region_id": 63
+  },
+  {
+    "id": 833,
+    "name": "Salento",
+    "code": 63690,
+    "region_id": 63
+  },
+  {
+    "id": 834,
+    "name": "Pereira",
+    "code": 66001,
+    "region_id": 66
+  },
+  {
+    "id": 835,
+    "name": "Apía",
+    "code": 66045,
+    "region_id": 66
+  },
+  {
+    "id": 836,
+    "name": "Balboa",
+    "code": 66075,
+    "region_id": 66
+  },
+  {
+    "id": 837,
+    "name": "Belén De Umbría",
+    "code": 66088,
+    "region_id": 66
+  },
+  {
+    "id": 838,
+    "name": "Dos Quebradas",
+    "code": 66170,
+    "region_id": 66
+  },
+  {
+    "id": 839,
+    "name": "Guática",
+    "code": 66318,
+    "region_id": 66
+  },
+  {
+    "id": 840,
+    "name": "La Celia",
+    "code": 66383,
+    "region_id": 66
+  },
+  {
+    "id": 841,
+    "name": "La Virginia",
+    "code": 66400,
+    "region_id": 66
+  },
+  {
+    "id": 842,
+    "name": "Marsella",
+    "code": 66440,
+    "region_id": 66
+  },
+  {
+    "id": 843,
+    "name": "Mistrató",
+    "code": 66456,
+    "region_id": 66
+  },
+  {
+    "id": 844,
+    "name": "Pueblo Rico",
+    "code": 66572,
+    "region_id": 66
+  },
+  {
+    "id": 845,
+    "name": "Quinchía",
+    "code": 66594,
+    "region_id": 66
+  },
+  {
+    "id": 846,
+    "name": "Santa Rosa De Cabal",
+    "code": 66682,
+    "region_id": 66
+  },
+  {
+    "id": 847,
+    "name": "Santuario",
+    "code": 66687,
+    "region_id": 66
+  },
+  {
+    "id": 848,
+    "name": "Bucaramanga",
+    "code": 68001,
+    "region_id": 68
+  },
+  {
+    "id": 849,
+    "name": "Aguada",
+    "code": 68013,
+    "region_id": 68
+  },
+  {
+    "id": 850,
+    "name": "Albania",
+    "code": 68020,
+    "region_id": 68
+  },
+  {
+    "id": 851,
+    "name": "Aratoca",
+    "code": 68051,
+    "region_id": 68
+  },
+  {
+    "id": 852,
+    "name": "Barbosa",
+    "code": 68077,
+    "region_id": 68
+  },
+  {
+    "id": 853,
+    "name": "Barichara",
+    "code": 68079,
+    "region_id": 68
+  },
+  {
+    "id": 854,
+    "name": "Barrancabermeja",
+    "code": 68081,
+    "region_id": 68
+  },
+  {
+    "id": 855,
+    "name": "Betulia",
+    "code": 68092,
+    "region_id": 68
+  },
+  {
+    "id": 856,
+    "name": "Bolívar",
+    "code": 68101,
+    "region_id": 68
+  },
+  {
+    "id": 857,
+    "name": "Cabrera",
+    "code": 68121,
+    "region_id": 68
+  },
+  {
+    "id": 858,
+    "name": "California",
+    "code": 68132,
+    "region_id": 68
+  },
+  {
+    "id": 859,
+    "name": "Capitanejo",
+    "code": 68147,
+    "region_id": 68
+  },
+  {
+    "id": 860,
+    "name": "Carcasí",
+    "code": 68152,
+    "region_id": 68
+  },
+  {
+    "id": 861,
+    "name": "Cepitá",
+    "code": 68160,
+    "region_id": 68
+  },
+  {
+    "id": 862,
+    "name": "Cerrito",
+    "code": 68162,
+    "region_id": 68
+  },
+  {
+    "id": 863,
+    "name": "Charalá",
+    "code": 68167,
+    "region_id": 68
+  },
+  {
+    "id": 864,
+    "name": "Charta",
+    "code": 68169,
+    "region_id": 68
+  },
+  {
+    "id": 865,
+    "name": "Chima",
+    "code": 68176,
+    "region_id": 68
+  },
+  {
+    "id": 866,
+    "name": "Chipatá",
+    "code": 68179,
+    "region_id": 68
+  },
+  {
+    "id": 867,
+    "name": "Cimitarra",
+    "code": 68190,
+    "region_id": 68
+  },
+  {
+    "id": 868,
+    "name": "Concepción",
+    "code": 68207,
+    "region_id": 68
+  },
+  {
+    "id": 869,
+    "name": "Confines",
+    "code": 68209,
+    "region_id": 68
+  },
+  {
+    "id": 870,
+    "name": "Contratación",
+    "code": 68211,
+    "region_id": 68
+  },
+  {
+    "id": 871,
+    "name": "Coromoro",
+    "code": 68217,
+    "region_id": 68
+  },
+  {
+    "id": 872,
+    "name": "Curití",
+    "code": 68229,
+    "region_id": 68
+  },
+  {
+    "id": 873,
+    "name": "El Carmen De Chucurí",
+    "code": 68235,
+    "region_id": 68
+  },
+  {
+    "id": 874,
+    "name": "El Guacamayo",
+    "code": 68245,
+    "region_id": 68
+  },
+  {
+    "id": 875,
+    "name": "El Peñón",
+    "code": 68250,
+    "region_id": 68
+  },
+  {
+    "id": 876,
+    "name": "El Playón",
+    "code": 68255,
+    "region_id": 68
+  },
+  {
+    "id": 877,
+    "name": "Encino",
+    "code": 68264,
+    "region_id": 68
+  },
+  {
+    "id": 878,
+    "name": "Enciso",
+    "code": 68266,
+    "region_id": 68
+  },
+  {
+    "id": 879,
+    "name": "El Florián",
+    "code": 68271,
+    "region_id": 68
+  },
+  {
+    "id": 880,
+    "name": "Floridablanca",
+    "code": 68276,
+    "region_id": 68
+  },
+  {
+    "id": 881,
+    "name": "Galán",
+    "code": 68296,
+    "region_id": 68
+  },
+  {
+    "id": 882,
+    "name": "Gámbita",
+    "code": 68298,
+    "region_id": 68
+  },
+  {
+    "id": 883,
+    "name": "Girón",
+    "code": 68307,
+    "region_id": 68
+  },
+  {
+    "id": 884,
+    "name": "Guaca",
+    "code": 68318,
+    "region_id": 68
+  },
+  {
+    "id": 885,
+    "name": "Guadalupe",
+    "code": 68320,
+    "region_id": 68
+  },
+  {
+    "id": 886,
+    "name": "Guapotá",
+    "code": 68322,
+    "region_id": 68
+  },
+  {
+    "id": 887,
+    "name": "Guavatá",
+    "code": 68324,
+    "region_id": 68
+  },
+  {
+    "id": 888,
+    "name": "Guepsa",
+    "code": 68327,
+    "region_id": 68
+  },
+  {
+    "id": 889,
+    "name": "Hato",
+    "code": 68344,
+    "region_id": 68
+  },
+  {
+    "id": 890,
+    "name": "Jesús María",
+    "code": 68368,
+    "region_id": 68
+  },
+  {
+    "id": 891,
+    "name": "Jordán",
+    "code": 68370,
+    "region_id": 68
+  },
+  {
+    "id": 892,
+    "name": "La Belleza",
+    "code": 68377,
+    "region_id": 68
+  },
+  {
+    "id": 893,
+    "name": "Landázuri",
+    "code": 68385,
+    "region_id": 68
+  },
+  {
+    "id": 894,
+    "name": "La Paz",
+    "code": 68397,
+    "region_id": 68
+  },
+  {
+    "id": 895,
+    "name": "Lebrija",
+    "code": 68406,
+    "region_id": 68
+  },
+  {
+    "id": 896,
+    "name": "Los Santos",
+    "code": 68418,
+    "region_id": 68
+  },
+  {
+    "id": 897,
+    "name": "Macaravita",
+    "code": 68425,
+    "region_id": 68
+  },
+  {
+    "id": 898,
+    "name": "Málaga",
+    "code": 68432,
+    "region_id": 68
+  },
+  {
+    "id": 899,
+    "name": "Matanza",
+    "code": 68444,
+    "region_id": 68
+  },
+  {
+    "id": 900,
+    "name": "Mogotes",
+    "code": 68464,
+    "region_id": 68
+  },
+  {
+    "id": 901,
+    "name": "Molagavita",
+    "code": 68468,
+    "region_id": 68
+  },
+  {
+    "id": 902,
+    "name": "Ocamonte",
+    "code": 68498,
+    "region_id": 68
+  },
+  {
+    "id": 903,
+    "name": "Oiba",
+    "code": 68500,
+    "region_id": 68
+  },
+  {
+    "id": 904,
+    "name": "Onzaga",
+    "code": 68502,
+    "region_id": 68
+  },
+  {
+    "id": 905,
+    "name": "Palmar",
+    "code": 68522,
+    "region_id": 68
+  },
+  {
+    "id": 906,
+    "name": "Palmas Del Socorro",
+    "code": 68524,
+    "region_id": 68
+  },
+  {
+    "id": 907,
+    "name": "Páramo",
+    "code": 68533,
+    "region_id": 68
+  },
+  {
+    "id": 908,
+    "name": "Piedecuesta",
+    "code": 68547,
+    "region_id": 68
+  },
+  {
+    "id": 909,
+    "name": "Pinchote",
+    "code": 68549,
+    "region_id": 68
+  },
+  {
+    "id": 910,
+    "name": "Puente Nacional",
+    "code": 68572,
+    "region_id": 68
+  },
+  {
+    "id": 911,
+    "name": "Puerto Parra",
+    "code": 68573,
+    "region_id": 68
+  },
+  {
+    "id": 912,
+    "name": "Puerto Wilches",
+    "code": 68575,
+    "region_id": 68
+  },
+  {
+    "id": 913,
+    "name": "Rionegro",
+    "code": 68615,
+    "region_id": 68
+  },
+  {
+    "id": 914,
+    "name": "Sabana De Torres",
+    "code": 68655,
+    "region_id": 68
+  },
+  {
+    "id": 915,
+    "name": "San Andrés",
+    "code": 68669,
+    "region_id": 68
+  },
+  {
+    "id": 916,
+    "name": "San Benito",
+    "code": 68673,
+    "region_id": 68
+  },
+  {
+    "id": 917,
+    "name": "San Gil",
+    "code": 68679,
+    "region_id": 68
+  },
+  {
+    "id": 918,
+    "name": "San Joaquín",
+    "code": 68682,
+    "region_id": 68
+  },
+  {
+    "id": 919,
+    "name": "San José De Miranda",
+    "code": 68684,
+    "region_id": 68
+  },
+  {
+    "id": 920,
+    "name": "San Miguel",
+    "code": 68686,
+    "region_id": 68
+  },
+  {
+    "id": 921,
+    "name": "San Vicente De Chucurí",
+    "code": 68689,
+    "region_id": 68
+  },
+  {
+    "id": 922,
+    "name": "Santa Bárbara",
+    "code": 68705,
+    "region_id": 68
+  },
+  {
+    "id": 923,
+    "name": "Santa Helena Del Opón",
+    "code": 68720,
+    "region_id": 68
+  },
+  {
+    "id": 924,
+    "name": "Simacota",
+    "code": 68745,
+    "region_id": 68
+  },
+  {
+    "id": 925,
+    "name": "Socorro",
+    "code": 68755,
+    "region_id": 68
+  },
+  {
+    "id": 926,
+    "name": "Suaita",
+    "code": 68770,
+    "region_id": 68
+  },
+  {
+    "id": 927,
+    "name": "Sucre",
+    "code": 68773,
+    "region_id": 68
+  },
+  {
+    "id": 928,
+    "name": "Suratá",
+    "code": 68780,
+    "region_id": 68
+  },
+  {
+    "id": 929,
+    "name": "Tona",
+    "code": 68820,
+    "region_id": 68
+  },
+  {
+    "id": 930,
+    "name": "Valle De San José",
+    "code": 68855,
+    "region_id": 68
+  },
+  {
+    "id": 931,
+    "name": "Vélez",
+    "code": 68861,
+    "region_id": 68
+  },
+  {
+    "id": 932,
+    "name": "Vetas",
+    "code": 68867,
+    "region_id": 68
+  },
+  {
+    "id": 933,
+    "name": "Villanueva",
+    "code": 68872,
+    "region_id": 68
+  },
+  {
+    "id": 934,
+    "name": "Zapatoca",
+    "code": 68895,
+    "region_id": 68
+  },
+  {
+    "id": 935,
+    "name": "Sincelejo",
+    "code": 70001,
+    "region_id": 70
+  },
+  {
+    "id": 936,
+    "name": "Buenavista",
+    "code": 70110,
+    "region_id": 70
+  },
+  {
+    "id": 937,
+    "name": "Caimito",
+    "code": 70124,
+    "region_id": 70
+  },
+  {
+    "id": 938,
+    "name": "Colosó",
+    "code": 70204,
+    "region_id": 70
+  },
+  {
+    "id": 939,
+    "name": "Corozal",
+    "code": 70215,
+    "region_id": 70
+  },
+  {
+    "id": 940,
+    "name": "Coveñas",
+    "code": 70221,
+    "region_id": 70
+  },
+  {
+    "id": 941,
+    "name": "Chalán",
+    "code": 70230,
+    "region_id": 70
+  },
+  {
+    "id": 942,
+    "name": "El Roble",
+    "code": 70233,
+    "region_id": 70
+  },
+  {
+    "id": 943,
+    "name": "Galeras",
+    "code": 70235,
+    "region_id": 70
+  },
+  {
+    "id": 944,
+    "name": "Guaranda",
+    "code": 70265,
+    "region_id": 70
+  },
+  {
+    "id": 945,
+    "name": "La Unión",
+    "code": 70400,
+    "region_id": 70
+  },
+  {
+    "id": 946,
+    "name": "Los Palmitos",
+    "code": 70418,
+    "region_id": 70
+  },
+  {
+    "id": 947,
+    "name": "Majagual",
+    "code": 70429,
+    "region_id": 70
+  },
+  {
+    "id": 948,
+    "name": "Morroa",
+    "code": 70473,
+    "region_id": 70
+  },
+  {
+    "id": 949,
+    "name": "Ovejas",
+    "code": 70508,
+    "region_id": 70
+  },
+  {
+    "id": 950,
+    "name": "Palmito",
+    "code": 70523,
+    "region_id": 70
+  },
+  {
+    "id": 951,
+    "name": "Sampués",
+    "code": 70670,
+    "region_id": 70
+  },
+  {
+    "id": 952,
+    "name": "San Benito Abad",
+    "code": 70678,
+    "region_id": 70
+  },
+  {
+    "id": 953,
+    "name": "San Juan Betulia",
+    "code": 70702,
+    "region_id": 70
+  },
+  {
+    "id": 954,
+    "name": "San Marcos",
+    "code": 70708,
+    "region_id": 70
+  },
+  {
+    "id": 955,
+    "name": "San Onofre",
+    "code": 70713,
+    "region_id": 70
+  },
+  {
+    "id": 956,
+    "name": "San Pedro",
+    "code": 70717,
+    "region_id": 70
+  },
+  {
+    "id": 957,
+    "name": "Sincé",
+    "code": 70742,
+    "region_id": 70
+  },
+  {
+    "id": 958,
+    "name": "Sucre",
+    "code": 70771,
+    "region_id": 70
+  },
+  {
+    "id": 959,
+    "name": "Tolú",
+    "code": 70820,
+    "region_id": 70
+  },
+  {
+    "id": 960,
+    "name": "Toluviejo",
+    "code": 70823,
+    "region_id": 70
+  },
+  {
+    "id": 961,
+    "name": "Ibagué",
+    "code": 73001,
+    "region_id": 73
+  },
+  {
+    "id": 962,
+    "name": "Alpujarra",
+    "code": 73024,
+    "region_id": 73
+  },
+  {
+    "id": 963,
+    "name": "Alvarado",
+    "code": 73026,
+    "region_id": 73
+  },
+  {
+    "id": 964,
+    "name": "Ambalema",
+    "code": 73030,
+    "region_id": 73
+  },
+  {
+    "id": 965,
+    "name": "Anzoátegui",
+    "code": 73043,
+    "region_id": 73
+  },
+  {
+    "id": 966,
+    "name": "Armero",
+    "code": 73055,
+    "region_id": 73
+  },
+  {
+    "id": 967,
+    "name": "Ataco",
+    "code": 73067,
+    "region_id": 73
+  },
+  {
+    "id": 968,
+    "name": "Cajamarca",
+    "code": 73124,
+    "region_id": 73
+  },
+  {
+    "id": 969,
+    "name": "Carmen Apicalá",
+    "code": 73148,
+    "region_id": 73
+  },
+  {
+    "id": 970,
+    "name": "Casabianca",
+    "code": 73152,
+    "region_id": 73
+  },
+  {
+    "id": 971,
+    "name": "Chaparral",
+    "code": 73168,
+    "region_id": 73
+  },
+  {
+    "id": 972,
+    "name": "Coello",
+    "code": 73200,
+    "region_id": 73
+  },
+  {
+    "id": 973,
+    "name": "Coyaima",
+    "code": 73217,
+    "region_id": 73
+  },
+  {
+    "id": 974,
+    "name": "Cunday",
+    "code": 73226,
+    "region_id": 73
+  },
+  {
+    "id": 975,
+    "name": "Dolores",
+    "code": 73236,
+    "region_id": 73
+  },
+  {
+    "id": 976,
+    "name": "Espinal",
+    "code": 73268,
+    "region_id": 73
+  },
+  {
+    "id": 977,
+    "name": "Falán",
+    "code": 73270,
+    "region_id": 73
+  },
+  {
+    "id": 978,
+    "name": "Flandes",
+    "code": 73275,
+    "region_id": 73
+  },
+  {
+    "id": 979,
+    "name": "Fresno",
+    "code": 73283,
+    "region_id": 73
+  },
+  {
+    "id": 980,
+    "name": "Guamo",
+    "code": 73319,
+    "region_id": 73
+  },
+  {
+    "id": 981,
+    "name": "Herveo",
+    "code": 73347,
+    "region_id": 73
+  },
+  {
+    "id": 982,
+    "name": "Honda",
+    "code": 73349,
+    "region_id": 73
+  },
+  {
+    "id": 983,
+    "name": "Icononzo",
+    "code": 73352,
+    "region_id": 73
+  },
+  {
+    "id": 984,
+    "name": "Lérida",
+    "code": 73408,
+    "region_id": 73
+  },
+  {
+    "id": 985,
+    "name": "Líbano",
+    "code": 73411,
+    "region_id": 73
+  },
+  {
+    "id": 986,
+    "name": "Mariquita",
+    "code": 73443,
+    "region_id": 73
+  },
+  {
+    "id": 987,
+    "name": "Melgar",
+    "code": 73449,
+    "region_id": 73
+  },
+  {
+    "id": 988,
+    "name": "Murillo",
+    "code": 73461,
+    "region_id": 73
+  },
+  {
+    "id": 989,
+    "name": "Natagaima",
+    "code": 73483,
+    "region_id": 73
+  },
+  {
+    "id": 990,
+    "name": "Ortega",
+    "code": 73504,
+    "region_id": 73
+  },
+  {
+    "id": 991,
+    "name": "Palo Cabildo",
+    "code": 73520,
+    "region_id": 73
+  },
+  {
+    "id": 992,
+    "name": "Piedras",
+    "code": 73547,
+    "region_id": 73
+  },
+  {
+    "id": 993,
+    "name": "Planadas",
+    "code": 73555,
+    "region_id": 73
+  },
+  {
+    "id": 994,
+    "name": "Prado",
+    "code": 73563,
+    "region_id": 73
+  },
+  {
+    "id": 995,
+    "name": "Purificación",
+    "code": 73585,
+    "region_id": 73
+  },
+  {
+    "id": 996,
+    "name": "Rioblanco",
+    "code": 73616,
+    "region_id": 73
+  },
+  {
+    "id": 997,
+    "name": "Roncesvalles",
+    "code": 73622,
+    "region_id": 73
+  },
+  {
+    "id": 998,
+    "name": "Rovira",
+    "code": 73624,
+    "region_id": 73
+  },
+  {
+    "id": 999,
+    "name": "Saldaña",
+    "code": 73671,
+    "region_id": 73
+  },
+  {
+    "id": 1000,
+    "name": "San Antonio",
+    "code": 73675,
+    "region_id": 73
+  },
+  {
+    "id": 1001,
+    "name": "San Luis",
+    "code": 73678,
+    "region_id": 73
+  },
+  {
+    "id": 1002,
+    "name": "Santa Isabel",
+    "code": 73686,
+    "region_id": 73
+  },
+  {
+    "id": 1003,
+    "name": "Suárez",
+    "code": 73770,
+    "region_id": 73
+  },
+  {
+    "id": 1004,
+    "name": "Valle De San Juan",
+    "code": 73854,
+    "region_id": 73
+  },
+  {
+    "id": 1005,
+    "name": "Venadillo",
+    "code": 73861,
+    "region_id": 73
+  },
+  {
+    "id": 1006,
+    "name": "Villahermosa",
+    "code": 73870,
+    "region_id": 73
+  },
+  {
+    "id": 1007,
+    "name": "Villarrica",
+    "code": 73873,
+    "region_id": 73
+  },
+  {
+    "id": 1008,
+    "name": "Cali",
+    "code": 76001,
+    "region_id": 76
+  },
+  {
+    "id": 1009,
+    "name": "Alcalá",
+    "code": 76020,
+    "region_id": 76
+  },
+  {
+    "id": 1010,
+    "name": "Andalucía",
+    "code": 76036,
+    "region_id": 76
+  },
+  {
+    "id": 1011,
+    "name": "Ansermanuevo",
+    "code": 76041,
+    "region_id": 76
+  },
+  {
+    "id": 1012,
+    "name": "Argelia",
+    "code": 76054,
+    "region_id": 76
+  },
+  {
+    "id": 1013,
+    "name": "Bolívar",
+    "code": 76100,
+    "region_id": 76
+  },
+  {
+    "id": 1014,
+    "name": "Buenaventura",
+    "code": 76109,
+    "region_id": 76
+  },
+  {
+    "id": 1015,
+    "name": "Buga",
+    "code": 76111,
+    "region_id": 76
+  },
+  {
+    "id": 1016,
+    "name": "Bugalagrande",
+    "code": 76113,
+    "region_id": 76
+  },
+  {
+    "id": 1017,
+    "name": "Caicedonia",
+    "code": 76122,
+    "region_id": 76
+  },
+  {
+    "id": 1018,
+    "name": "Calima",
+    "code": 76126,
+    "region_id": 76
+  },
+  {
+    "id": 1019,
+    "name": "Candelaria",
+    "code": 76130,
+    "region_id": 76
+  },
+  {
+    "id": 1020,
+    "name": "Cartago",
+    "code": 76147,
+    "region_id": 76
+  },
+  {
+    "id": 1021,
+    "name": "Dagua",
+    "code": 76233,
+    "region_id": 76
+  },
+  {
+    "id": 1022,
+    "name": "El Águila",
+    "code": 76243,
+    "region_id": 76
+  },
+  {
+    "id": 1023,
+    "name": "El Cairo",
+    "code": 76246,
+    "region_id": 76
+  },
+  {
+    "id": 1024,
+    "name": "El Cerrito",
+    "code": 76248,
+    "region_id": 76
+  },
+  {
+    "id": 1025,
+    "name": "El Dovio",
+    "code": 76250,
+    "region_id": 76
+  },
+  {
+    "id": 1026,
+    "name": "Florida",
+    "code": 76275,
+    "region_id": 76
+  },
+  {
+    "id": 1027,
+    "name": "Ginebra",
+    "code": 76306,
+    "region_id": 76
+  },
+  {
+    "id": 1028,
+    "name": "Guacarí",
+    "code": 76318,
+    "region_id": 76
+  },
+  {
+    "id": 1029,
+    "name": "Jamundí",
+    "code": 76364,
+    "region_id": 76
+  },
+  {
+    "id": 1030,
+    "name": "La Cumbre",
+    "code": 76377,
+    "region_id": 76
+  },
+  {
+    "id": 1031,
+    "name": "La Unión",
+    "code": 76400,
+    "region_id": 76
+  },
+  {
+    "id": 1032,
+    "name": "La Victoria",
+    "code": 76403,
+    "region_id": 76
+  },
+  {
+    "id": 1033,
+    "name": "Obando",
+    "code": 76497,
+    "region_id": 76
+  },
+  {
+    "id": 1034,
+    "name": "Palmira",
+    "code": 76520,
+    "region_id": 76
+  },
+  {
+    "id": 1035,
+    "name": "Pradera",
+    "code": 76563,
+    "region_id": 76
+  },
+  {
+    "id": 1036,
+    "name": "Restrepo",
+    "code": 76606,
+    "region_id": 76
+  },
+  {
+    "id": 1037,
+    "name": "Riofrío",
+    "code": 76616,
+    "region_id": 76
+  },
+  {
+    "id": 1038,
+    "name": "Roldanillo",
+    "code": 76622,
+    "region_id": 76
+  },
+  {
+    "id": 1039,
+    "name": "San Pedro",
+    "code": 76670,
+    "region_id": 76
+  },
+  {
+    "id": 1040,
+    "name": "Sevilla",
+    "code": 76736,
+    "region_id": 76
+  },
+  {
+    "id": 1041,
+    "name": "Toro",
+    "code": 76823,
+    "region_id": 76
+  },
+  {
+    "id": 1042,
+    "name": "Trujillo",
+    "code": 76828,
+    "region_id": 76
+  },
+  {
+    "id": 1043,
+    "name": "Tuluá",
+    "code": 76834,
+    "region_id": 76
+  },
+  {
+    "id": 1044,
+    "name": "Ulloa",
+    "code": 76845,
+    "region_id": 76
+  },
+  {
+    "id": 1045,
+    "name": "Versalles",
+    "code": 76863,
+    "region_id": 76
+  },
+  {
+    "id": 1046,
+    "name": "Vijes",
+    "code": 76869,
+    "region_id": 76
+  },
+  {
+    "id": 1047,
+    "name": "Yotoco",
+    "code": 76890,
+    "region_id": 76
+  },
+  {
+    "id": 1048,
+    "name": "Yumbo",
+    "code": 76892,
+    "region_id": 76
+  },
+  {
+    "id": 1049,
+    "name": "Zarzal",
+    "code": 76895,
+    "region_id": 76
+  },
+  {
+    "id": 1050,
+    "name": "Arauca",
+    "code": 81001,
+    "region_id": 81
+  },
+  {
+    "id": 1051,
+    "name": "Arauquita",
+    "code": 81065,
+    "region_id": 81
+  },
+  {
+    "id": 1052,
+    "name": "Cravo Norte",
+    "code": 81220,
+    "region_id": 81
+  },
+  {
+    "id": 1053,
+    "name": "Fortul",
+    "code": 81300,
+    "region_id": 81
+  },
+  {
+    "id": 1054,
+    "name": "Puerto Rondón",
+    "code": 81591,
+    "region_id": 81
+  },
+  {
+    "id": 1055,
+    "name": "Saravena",
+    "code": 81736,
+    "region_id": 81
+  },
+  {
+    "id": 1056,
+    "name": "Tame",
+    "code": 81794,
+    "region_id": 81
+  },
+  {
+    "id": 1057,
+    "name": "Yopal",
+    "code": 85001,
+    "region_id": 85
+  },
+  {
+    "id": 1058,
+    "name": "Aguazul",
+    "code": 85010,
+    "region_id": 85
+  },
+  {
+    "id": 1059,
+    "name": "Chámeza",
+    "code": 85015,
+    "region_id": 85
+  },
+  {
+    "id": 1060,
+    "name": "Hato Corozal",
+    "code": 85125,
+    "region_id": 85
+  },
+  {
+    "id": 1061,
+    "name": "La Salina",
+    "code": 85136,
+    "region_id": 85
+  },
+  {
+    "id": 1062,
+    "name": "Maní",
+    "code": 85139,
+    "region_id": 85
+  },
+  {
+    "id": 1063,
+    "name": "Monterrey",
+    "code": 85162,
+    "region_id": 85
+  },
+  {
+    "id": 1064,
+    "name": "Nunchía",
+    "code": 85225,
+    "region_id": 85
+  },
+  {
+    "id": 1065,
+    "name": "Orocué",
+    "code": 85230,
+    "region_id": 85
+  },
+  {
+    "id": 1066,
+    "name": "Paz De Ariporo",
+    "code": 85250,
+    "region_id": 85
+  },
+  {
+    "id": 1067,
+    "name": "Pore",
+    "code": 85263,
+    "region_id": 85
+  },
+  {
+    "id": 1068,
+    "name": "Recetor",
+    "code": 85279,
+    "region_id": 85
+  },
+  {
+    "id": 1069,
+    "name": "Sabanalarga",
+    "code": 85300,
+    "region_id": 85
+  },
+  {
+    "id": 1070,
+    "name": "Sácama",
+    "code": 85315,
+    "region_id": 85
+  },
+  {
+    "id": 1071,
+    "name": "San Luis De Palenque",
+    "code": 85325,
+    "region_id": 85
+  },
+  {
+    "id": 1072,
+    "name": "Támara",
+    "code": 85400,
+    "region_id": 85
+  },
+  {
+    "id": 1073,
+    "name": "Tauramena",
+    "code": 85410,
+    "region_id": 85
+  },
+  {
+    "id": 1074,
+    "name": "Trinidad",
+    "code": 85430,
+    "region_id": 85
+  },
+  {
+    "id": 1075,
+    "name": "Villanueva",
+    "code": 85440,
+    "region_id": 85
+  },
+  {
+    "id": 1076,
+    "name": "Mocoa",
+    "code": 86001,
+    "region_id": 86
+  },
+  {
+    "id": 1077,
+    "name": "Colón",
+    "code": 86219,
+    "region_id": 86
+  },
+  {
+    "id": 1078,
+    "name": "Orito",
+    "code": 86320,
+    "region_id": 86
+  },
+  {
+    "id": 1079,
+    "name": "Puerto Asís",
+    "code": 86568,
+    "region_id": 86
+  },
+  {
+    "id": 1080,
+    "name": "Puerto Caicedo",
+    "code": 86569,
+    "region_id": 86
+  },
+  {
+    "id": 1081,
+    "name": "Puerto Guzmán",
+    "code": 86571,
+    "region_id": 86
+  },
+  {
+    "id": 1082,
+    "name": "Puerto Leguízamo",
+    "code": 86573,
+    "region_id": 86
+  },
+  {
+    "id": 1083,
+    "name": "Sibundoy",
+    "code": 86749,
+    "region_id": 86
+  },
+  {
+    "id": 1084,
+    "name": "San Francisco",
+    "code": 86755,
+    "region_id": 86
+  },
+  {
+    "id": 1085,
+    "name": "San Miguel",
+    "code": 86757,
+    "region_id": 86
+  },
+  {
+    "id": 1086,
+    "name": "Santiago",
+    "code": 86760,
+    "region_id": 86
+  },
+  {
+    "id": 1087,
+    "name": "Valle Del Guamuez",
+    "code": 86865,
+    "region_id": 86
+  },
+  {
+    "id": 1088,
+    "name": "Villagarzón",
+    "code": 86885,
+    "region_id": 86
+  },
+  {
+    "id": 1089,
+    "name": "San Andrés",
+    "code": 88001,
+    "region_id": 88
+  },
+  {
+    "id": 1090,
+    "name": "Providencia",
+    "code": 88564,
+    "region_id": 88
+  },
+  {
+    "id": 1091,
+    "name": "Leticia",
+    "code": 91001,
+    "region_id": 91
+  },
+  {
+    "id": 1092,
+    "name": "El Encanto",
+    "code": 91263,
+    "region_id": 91
+  },
+  {
+    "id": 1093,
+    "name": "La Chorrera",
+    "code": 91405,
+    "region_id": 91
+  },
+  {
+    "id": 1094,
+    "name": "La Pedrera",
+    "code": 91407,
+    "region_id": 91
+  },
+  {
+    "id": 1095,
+    "name": "La Victoria",
+    "code": 91430,
+    "region_id": 91
+  },
+  {
+    "id": 1096,
+    "name": "Mirití-Paraná",
+    "code": 91460,
+    "region_id": 91
+  },
+  {
+    "id": 1097,
+    "name": "Puerto Alegría",
+    "code": 91530,
+    "region_id": 91
+  },
+  {
+    "id": 1098,
+    "name": "Puerto Arica",
+    "code": 91536,
+    "region_id": 91
+  },
+  {
+    "id": 1099,
+    "name": "Puerto Nariño",
+    "code": 91540,
+    "region_id": 91
+  },
+  {
+    "id": 1100,
+    "name": "Puerto Santander",
+    "code": 91669,
+    "region_id": 91
+  },
+  {
+    "id": 1101,
+    "name": "Tarapacá",
+    "code": 91798,
+    "region_id": 91
+  },
+  {
+    "id": 1102,
+    "name": "Inírida",
+    "code": 94001,
+    "region_id": 94
+  },
+  {
+    "id": 1103,
+    "name": "Barranco Minas",
+    "code": 94343,
+    "region_id": 94
+  },
+  {
+    "id": 1104,
+    "name": "Mapiripana",
+    "code": 94663,
+    "region_id": 94
+  },
+  {
+    "id": 1105,
+    "name": "San Felipe",
+    "code": 94883,
+    "region_id": 94
+  },
+  {
+    "id": 1106,
+    "name": "Puerto Colombia",
+    "code": 94884,
+    "region_id": 94
+  },
+  {
+    "id": 1107,
+    "name": "La Guadalupe",
+    "code": 94885,
+    "region_id": 94
+  },
+  {
+    "id": 1108,
+    "name": "Cacahual",
+    "code": 94886,
+    "region_id": 94
+  },
+  {
+    "id": 1109,
+    "name": "Pana Pana",
+    "code": 94887,
+    "region_id": 94
+  },
+  {
+    "id": 1110,
+    "name": "Morichal Nuevo",
+    "code": 94888,
+    "region_id": 94
+  },
+  {
+    "id": 1111,
+    "name": "San José Del Guaviare",
+    "code": 95001,
+    "region_id": 95
+  },
+  {
+    "id": 1112,
+    "name": "Calamar",
+    "code": 95015,
+    "region_id": 95
+  },
+  {
+    "id": 1113,
+    "name": "El Retorno",
+    "code": 95025,
+    "region_id": 95
+  },
+  {
+    "id": 1114,
+    "name": "Miraflores",
+    "code": 95200,
+    "region_id": 95
+  },
+  {
+    "id": 1115,
+    "name": "Mitú",
+    "code": 97001,
+    "region_id": 97
+  },
+  {
+    "id": 1116,
+    "name": "Caruru",
+    "code": 97161,
+    "region_id": 97
+  },
+  {
+    "id": 1117,
+    "name": "Pacoa",
+    "code": 97511,
+    "region_id": 97
+  },
+  {
+    "id": 1118,
+    "name": "Taraira",
+    "code": 97666,
+    "region_id": 97
+  },
+  {
+    "id": 1119,
+    "name": "Papunahua",
+    "code": 97777,
+    "region_id": 97
+  },
+  {
+    "id": 1120,
+    "name": "Yavaraté",
+    "code": 97889,
+    "region_id": 97
+  },
+  {
+    "id": 1121,
+    "name": "Puerto Carreño",
+    "code": 99001,
+    "region_id": 99
+  },
+  {
+    "id": 1122,
+    "name": "La Primavera",
+    "code": 99524,
+    "region_id": 99
+  },
+  {
+    "id": 1123,
+    "name": "Santa Rosalía",
+    "code": 99624,
+    "region_id": 99
+  },
+  {
+    "id": 1124,
+    "name": "Cumaribo",
+    "code": 99773,
+    "region_id": 99
+  }
+]
